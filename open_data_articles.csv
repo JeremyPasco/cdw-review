@@ -1,0 +1,1005 @@
+doi;pmid;pmcid;publication_year;publication_month;publication_day;cdw_name;cdw_country;article_type;exclusion_criteria;study_disciplines;cdw_exploitation_mode;cdw_effective_used
+10.1186/s12911-017-0504-7;28709453;PMC5512751;2017;7;14;blood transfusion data warehouse;NA;methods:cdw-conception;NA;NA;"NA";NA
+10.1186/s12887-017-0910-0;28697724;PMC5506674;2017;7;11;Children's Healthcare of Atlanta Data Warehouse;United States;study:epidemiology:analytical;NA;pneumology, cardiovascular, radiology;retrospective;556
+10.1111/jch.13045;28681519;NA;2017;7;6;New York City's Health and Hospitals Corporation data warehouse;United States;study:epidemiology:analytical;NA;cardiovascular;retrospective;41868
+10.1186/s12911-017-0496-3;28676124;PMC5496643;2017;7;4;Ramathibodi Hospital Data Warehouse;Thailand;study:practice-evaluation;NA;hepato-gastroenterology;retrospective;404273
+10.1097/MLR.0000000000000707;28319582;NA;2017;7;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;surgery;retrospective;525283
+10.1177/2047487317702041;28387143;NA;2017;7;NA;Clalit Health Services Data Warehouse;Israel;study:epidemiology:analytical;NA;endocrinology, cardiovascular;retrospective;61971
+10.1007/s11606-017-3988-z;28138875;PMC5481223;2017;7;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:evaluative;NA;endocrinology;real time;1250
+10.1016/j.cllc.2016.11.018;28038980;NA;2017;7;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:evaluative;NA;pneumology, oncology;retrospective;973
+10.1016/j.jpeds.2017.06.004;28669611;NA;2017;6;29;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;neonatology;retrospective;382190
+10.1016/j.jpeds.2017.05.037;28625502;NA;2017;6;15;Boston Children's Hospital Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;pediatrics;retrospective;179
+10.1186/s12913-017-2327-8;28606088;PMC5469019;2017;6;12;NA;NA;methods:cdw-deployment;NA;public health;"NA";NA
+10.2215/CJN.10981016;28495862;PMC5460713;2017;6;7;I2b2 HEGP (Pompidou University Hospital);France;study:epidemiology:analytical;NA;nephrology;retrospective;126736
+10.1016/j.jpeds.2017.05.024;28600155;NA;2017;6;6;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;pediatrics, neonatology, cardiovascular;retrospective;61520
+10.1016/j.ijmedinf.2017.02.006;28495345;NA;2017;6;NA;Georges Pompidou University Hospital Clinical Data Warehouse;NA;methods:cdw-follow-up;NA;"NA";retrospective;NA
+NULL;28657897;NA;2017;6;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;endocrinology;retrospective;44526
+10.4300/JGME-D-16-00469.1;28638518;PMC5476389;2017;6;NA;Boston Children's Hospital Clinical Data Warehouse;United States;study:practice-evaluation;NA;pediatrics;real time;12200
+10.1016/j.sapharm.2016.07.002;27577736;NA;2017;6;NA;no name;United States;study:epidemiology:analytical;NA;endocrinology;retrospective;1e4
+10.1089/tmj.2016.0170;27929365;NA;2017;6;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;dermatology;retrospective;7960
+10.1016/j.ajog.2017.02.003;28188772;NA;2017;6;NA;Utah Health Science Center Enterprise Data Warehouse (UUHSC);United States;study:epidemiology:analytical;NA;gynecology;retrospective;8603
+10.1097/CIN.0000000000000367;28591064;NA;2017;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.jbi.2017.05.003;28487263;NA;2017;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.ajo.2017.03.026;28365240;NA;2017;6;NA;NA;NA;methods:cdw-deployment;NA;ophtalmology;"NA";NA
+NULL;28604323;NA;2017;5;24;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:epidemiology:descriptive;NA;infectious diseases;retrospective;74e5
+10.1093/jamia/ocx046;28505339;NA;2017;5;12;NA;NA;methods:cdw-conception;NA;biology;retrospective;NA
+10.1161/JAHA.116.004880;28487389;NA;2017;5;9;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;cardiovascular, geriatrics;retrospective;76639
+10.1186/s12859-017-1646-4;28476106;PMC5420152;2017;5;5;The Geminivirus Data Warehouse;NA;methods:cdw-deployment;NA;virology;"NA";NA
+10.1093/jamia/ocw144;28339516;NA;2017;5;1;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/archdischild-2016-312010;28087722;NA;2017;5;NA;Pediatrix BabySteps Clinical Data Warehouse;NA;methods:other;NA;"NA";"NA";NA
+10.1111/jgs.14900;28422270;NA;2017;4;19;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;geriatrics;retrospective;86892
+10.1080/10903127.2017.1308608;28414588;NA;2017;4;17;Ambulance Victoria Clinical Data Warehouse;Australia;study:epidemiology:analytical;NA;emergency;retrospective;106059
+10.1080/13557858.2017.1315372;28393538;NA;2017;4;10;Carolinas HealthCare System electronic data warehouse;United States;study:epidemiology:analytical;NA;public health, endocrinology;retrospective;12572
+10.1093/jamia/ocw123;27616701;NA;2017;4;1;Duke Health System Enterprise Data Warehouse;NA;methods:cdw-conception;NA;endocrinology;retrospective;NA
+10.1177/0033354916689610;28135425;PMC5349485;2017;4;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;hepato-gastroenterology;retrospective;5667452
+10.1007/s11606-016-3905-x;27815763;PMC5377878;2017;4;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;environment;retrospective;4814631
+10.1002/phar.1910;28164355;NA;2017;4;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:practice-evaluation;NA;psychiatry;retrospective;69823
+10.1634/theoncologist.2016-0254;28275120;PMC5388380;2017;4;NA;no name;United States;study:epidemiology:analytical;NA;neurology, genetics, oncology;retrospective;295
+10.1093/bioinformatics/btx137;28334291;NA;2017;3;9;open data warehouse tranSMART;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.1093/jac/dkw468;27999034;NA;2017;3;1;Centre Hospitalier Universitaire de Sherbrooke (CHUS) Data Warehouse;Canada;study:medico-economy;NA;public health;prospective;40605
+10.1007/s40264-016-0487-9;27943160;NA;2017;3;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;dermatology, pharmacology;retrospective;56118
+10.1038/jp.2016.206;27831551;NA;2017;3;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;pediatrics, neonatology, neurology;retrospective;9134
+10.1515/jtim-2017-0011;28680838;PMC5490961;2017;3;NA;NorthShore University Heath System Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology, geriatrics;retrospective;565
+10.1016/j.cgh.2016.08.030;27581064;PMC5316341;2017;3;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:descriptive;NA;hepato-gastroenterology;retrospective;379
+10.1016/j.jbi.2017.02.005;28193464;NA;2017;3;NA;integrated Genomics Anesthesia System (iGAS);NA;methods:cdw-deployment;NA;anesthesia;"NA";NA
+10.1016/S1470-2045(17)30074-8;28271869;NA;2017;3;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.3803/EnM.2017.32.1.90;28256114;PMC5368128;2017;3;NA;Seoul St. Mary's Hospital implemented a clinical data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1186/s12911-017-0418-4;28241760;PMC5329909;2017;2;28;Columbia University Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;neurology;retrospective;3015
+10.1080/10903127.2016.1204037;27439109;NA;2017;2;NA;Ambulance Victoria Clinical Data Warehouse;Australia;study:epidemiology:descriptive;NA;paramedical, geriatrics;retrospective;596579
+10.3233/BLC-160068;28149934;PMC5271483;2017;1;27;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;urology, oncology;retrospective;46842
+10.2196/resprot.5948;28104580;PMC5290296;2017;1;19;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;neurology;retrospective;12344
+10.1177/0961203317703494;28399687;NA;2017;1;1;Columbia University Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;pneumology, infectious diseases, internal medicine;retrospective;7033
+10.1002/cncr.30245;27571243;NA;2017;1;1;data warehouse at the Houston Methodist Hospital;NA;methods:cdw-conception;NA;oncology, gynecology;retrospective;NA
+10.1001/jamasurg.2016.2808;27603225;NA;2017;1;1;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:evaluative;NA;surgery;prospective;NA
+10.1097/PRS.0000000000002838;28027219;PMC5428547;2017;1;NA;no name;United States;study:epidemiology:analytical;NA;gynecology, oncology;retrospective;1197
+10.1007/s00384-016-2701-8;27844202;NA;2017;1;NA;Seoul National University Clinical Data Warehouse;South Korea;study:epidemiology:analytical;NA;hepato-gastroenterology, oncology;retrospective;65
+10.1212/NXI.0000000000000314;28018945;PMC5173349;2017;1;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:medico-economy;NA;pediatrics, neurology;retrospective;57
+10.7205/MILMED-D-16-00103;28051985;NA;2017;1;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;ophtalmology, public health;retrospective;NA
+10.1371/journal.pone.0173091;28264046;PMC5338796;2017;NA;NA;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:epidemiology:analytical;NA;infectious diseases;retrospective;4886
+10.3389/fonc.2017.00016;28232905;PMC5298960;2017;NA;NA;no name;Germany;study:epidemiology:analytical;NA;radiology, neurology, oncology;retrospective;251
+10.1177/1176935117694349;28469389;PMC5392017;2017;NA;NA;NA;NA;methods:cdw-conception;NA;oncology;"NA";NA
+NULL;28508788;NA;2017;NA;NA;KALIS-DWH;NA;methods:cdw-deployment;NA;pharmacology;retrospective;NA
+10.1371/journal.pone.0177173;28493908;PMC5426641;2017;NA;NA;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:epidemiology:analytical;NA;infectious diseases;retrospective;2178582
+NULL;28679923;NA;2017;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;28423807;NA;2017;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;28423774;NA;2017;NA;NA;PEARL data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.5888/pcd13.160445;28033091;PMC5201151;2016;12;29;sans nom;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1186/s40621-016-0089-0;27747560;PMC5065940;2016;12;NA;Ambulance Victoria Clinical Data Warehouse;Australia;study:epidemiology:descriptive;NA;emergency, neurology;retrospective;106059
+10.1016/j.clcc.2016.04.005;27301717;PMC5099105;2016;12;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;oncology, hepato-gastroenterology;retrospective;12551
+10.1093/ilar/ilw030;28053065;NA;2016;12;NA;none;NA;methods:cdw-conception;NA;pharmacology;"NA";NA
+10.1016/j.jbi.2016.10.010;27769890;NA;2016;12;NA;NA;NA;methods:cdw-tools;NA;"NA";real time;NA
+10.1016/j.urology.2016.07.040;27590253;PMC5116267;2016;12;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;urology, oncology;retrospective;507
+10.1002/acr.23160;27898996;PMC5472491;2016;11;29;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;rheumatology;retrospective;25157
+10.1002/acr.23140;27813310;NA;2016;11;3;Veteran Health Administration Corporate Data Warehouse;NA;methods:cdw-conception;NA;orthopedics, infectious diseases;"NA";NA
+10.1111/dmcn.13191;27357997;NA;2016;11;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;cardiovascular, genetics;retrospective;121736
+10.1093/jamia/ocw006;27026618;PMC5070519;2016;11;NA;Cancer Registry Control Panel (CRCP);United States;study:epidemiology:analytical;NA;oncology, public health;retrospective;3087
+10.5414/CP202332;27487366;NA;2016;11;NA;Seoul St. Mary's hospital Data Warehouse;South Korea;study:epidemiology:descriptive;NA;cardiovascular;retrospective;2349
+10.1007/s10552-016-0808-4;27639398;NA;2016;11;NA;CRN site's virtual data warehouse;NA;methods:cdw-conception;NA;oncology;retrospective;NA
+10.1093/jamia/ocw029;27107442;PMC5070524;2016;11;NA;clinical data warehouse and administrative systems of UNC Health Care;United States;study:epidemiology:evaluative;NA;quality;retrospective;NA
+10.1161/CIRCOUTCOMES.116.003041;28051772;PMC5217475;2016;11;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:evaluative;NA;public health;retrospective;NA
+10.1097/GOX.0000000000001012;27975004;PMC5142470;2016;11;NA;no name;United States;study:epidemiology:analytical;NA;surgery, reconstructive surgery;retrospective;352
+10.1021/acssynbio.5b00295;27110921;NA;2016;10;21;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/s12350-016-0689-7;27739037;PMC5391305;2016;10;13;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;infectious diseases, cardiovascular;retrospective;508
+10.1136/jim-2016-000118;27342424;NA;2016;10;NA;no name;United States;study:medico-economy;NA;public health;retrospective;600
+10.1109/ICHI.2016.13;28503676;PMC5423731;2016;10;NA;Columbia University Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;endocrinology;retrospective;2707
+10.1007/s00246-016-1419-2;27278630;NA;2016;10;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;cardiovascular, genetics, pediatrics;retrospective;408
+10.1016/j.jbi.2016.08.007;27507090;NA;2016;10;NA;I2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.ijmedinf.2016.07.009;27506144;NA;2016;10;NA;West Virginia Clinical and Translational Science Institute's Integrated Data Repository;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.chest.2016.05.001;27178786;NA;2016;9;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;public health, radiology, oncology;retrospective;208633
+10.1093/annonc/mdw250;27443633;NA;2016;9;NA;no name;Netherlands;study:epidemiology:evaluative;NA;oncology;prospective;4345
+10.1016/j.respe.2016.02.011;27592033;NA;2016;9;NA;SNIIRAM, I2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1093/jamia/ocv197;26911827;NA;2016;9;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:evaluative;NA;cardiovascular;real time;16971
+10.3414/ME15-02-0015;27405886;NA;2016;8;5;no name;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/bmjopen-2015-010962;27491665;PMC4985976;2016;8;4;Dutch Transfusion Data warehouse (DTD);NA;methods:cdw-deployment;NA;hematology;"NA";NA
+10.1016/j.jhep.2016.04.012;27130843;PMC4955712;2016;8;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;hepato-gastroenterology;retrospective;6669388
+10.3109/10903127.2015.1128030;26930187;NA;2016;8;NA;Ambulance Victoria Clinical Data Warehouse;Australia;study:epidemiology:descriptive;NA;emergency, obstetrics;retrospective;2098
+10.1007/s00392-016-0975-z;26916650;NA;2016;8;NA;no name;Germany;study:epidemiology:descriptive;NA;cardiovascular;retrospective;331
+10.1177/0962280213480282;23503303;PMC3752320;2016;8;NA;Total Cancer Care Data Warehouse;NA;methods:other;NA;"NA";"NA";NA
+10.1007/s10278-015-9830-4;26518194;PMC4879026;2016;6;NA;DICOM Data Warehouse (DDW);NA;methods:cdw-follow-up;NA;"NA";"NA";NA
+10.3122/jabfm.2016.03.150226;27170793;NA;2016;6;NA;CHARN data warehouse;United States;study:epidemiology:analytical;NA;public health, endocrinology;retrospective;114845
+10.1002/hep.28340;26561023;NA;2016;6;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology, infectious diseases;retrospective;21419
+10.4158/EP151108.OR;27176142;NA;2016;6;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;oncology, endocrinology;retrospective;19592
+10.1213/ANE.0000000000001201;27195633;NA;2016;6;NA;no name;NA;methods:cdw-deployment;NA;surgery;"NA";NA
+10.5455/aim.2016.24.186-192;27482133;PMC4949029;2016;6;NA;NA;NA;methods:cdw-conception;NA;endocrinology;"NA";NA
+10.1007/s00347-016-0272-2;27222127;NA;2016;6;NA;Smart eye data;NA;methods:cdw-deployment;NA;ophtalmology;"NA";NA
+10.1016/j.jmpt.2016.04.005;27288324;NA;2016;6;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;chiropractic;retrospective;NA
+10.1038/srep26094;27185194;PMC4869115;2016;5;17;Mount Sinai Data Warehouse;United States;study:epidemiology:analytical;NA;public health;retrospective;7e5
+10.1186/s12913-016-1418-2;27143e3;PMC4855849;2016;5;4;Ottawa Hospital Data Warehouse;Canada;study:medico-economy;NA;public health;retrospective;44066
+10.1016/j.earlhumdev.2016.03.003;27018746;PMC4862884;2016;5;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;pediatrics, neonatology;retrospective;64896
+10.1016/j.cgh.2015.10.023;26538206;NA;2016;5;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology;retrospective;7004
+10.1007/s11606-015-3562-5;26951273;PMC4803676;2016;4;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;public health, neurology;retrospective;2130
+10.1097/j.pain.0000000000000462;26683238;NA;2016;4;NA;Mount Sinai Data Warehouse;United States;study:epidemiology:descriptive;NA;infectious diseases, pain management;retrospective;638
+10.1016/j.transproceed.2015.12.075;27234755;NA;2016;4;NA;Hyperion data warehouse;Taiwan;study:epidemiology:analytical;NA;nephrology;retrospective;67
+10.1093/bioinformatics/btv644;26556384;NA;2016;3;15;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.7196/SAMJ.2016.v106i4.10066;27032853;NA;2016;3;8;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:epidemiology:descriptive;NA;infectious diseases;retrospective;1266
+10.1016/j.jpeds.2015.11.046;26703875;PMC4769929;2016;3;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology, pediatrics;retrospective;3082
+10.1177/1357633X15589861;26116856;NA;2016;3;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:evaluative;NA;dermatology;retrospective;186
+10.1109/JBHI.2015.2392553;25608318;NA;2016;3;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/s10916-015-0418-9;26649437;NA;2016;3;NA;Vanderbilt Perioperative Data Warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/s10995-015-1821-z;26694046;NA;2016;2;NA;Longitudinal Study of Early Development Data Warehouse;United States;study:epidemiology:analytical;NA;obstetrics, pediatrics, neurology;retrospective;541816
+10.2105/AJPH.2015.302927;26562129;NA;2016;2;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;hepato-gastroenterology, infectious diseases;retrospective;233898
+10.4158/EP15640.OR;26492544;NA;2016;2;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;endocrinology;retrospective;4215
+10.1002/cam4.583;26714675;PMC4735779;2016;2;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:medico-economy;NA;hematology, oncology, pediatrics;retrospective;505
+10.1016/j.jbi.2015.12.005;26707450;NA;2016;2;NA;NA;NA;methods:cdw-conception;NA;neurology, radiology;"NA";NA
+10.1111/jdv.12949;25627163;NA;2016;1;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;dermatology, oncology;retrospective;10947
+10.3171/2015.3.SPINE141127;26431073;NA;2016;1;NA;no name;NA;methods:cdw-deployment;NA;NA;"NA";NA
+10.3402/gha.v9.32089;28156880;NA;2016;1;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.athoracsur.2015.07.042;26410159;NA;2016;1;NA;CHOP data warehouse;United States;study:epidemiology:evaluative;NA;cardiovascular, surgery, public health, quality;real time;1715
+10.1089/tmj.2015.0036;26393782;NA;2016;1;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;dermatology;retrospective;309
+10.13063/2327-9214.1235;27891527;PMC5108635;2016;NA;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;public health;retrospective;742749
+10.2147/OPTH.S107656;27601872;PMC5003100;2016;NA;NA;Smart Eye Database (SMEYEDAT);Germany;study:epidemiology:analytical;NA;ophtalmology;retrospective;34931
+10.1371/journal.pone.0157729;27427913;PMC4948775;2016;NA;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;endocrinology;retrospective;33838
+NULL;26937542;NA;2016;NA;NA;no name;United Kingdom;study:epidemiology:analytical;NA;nephrology;retrospective;27532
+10.1371/journal.pone.0168189;27997559;PMC5172583;2016;NA;NA;Seoul National University Clinical Data Warehouse;South Korea;study:epidemiology:analytical;NA;hepato-gastroenterology, oncology;retrospective;53137
+NA;28269963;PMC5333256;2016;NA;NA;Stanford Translational Research Integrated Database Environment (STRIDE);United States;study:epidemiology:analytical;NA;endocrinology;retrospective;6121
+10.5210/ojphi.v8i3.7000;28210424;PMC5302460;2016;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1155/2016/6741418;27123451;PMC4830705;2016;NA;NA;Data Warehouse of the Lombardy Region;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.3414/ME15-01-0082;26534843;NA;2016;NA;NA;I2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.13063/2327-9214.1245;28154834;PMC5226381;2016;NA;NA;I2b2, Health Sciences South Carolina Clinical Data Warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;28269866;PMC5333310;2016;NA;NA;i3b3;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.2217/fon.16.9;26880307;NA;2016;NA;NA;no name;Italy;study:epidemiology:analytical;NA;neurology, surgery;retrospective;270
+NULL;27885972;PMC5123209;2016;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;27577414;NA;2016;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1371/journal.pone.0159605;27551747;PMC4994945;2016;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.4338/ACI-2015-08-RA-0104;27437043;PMC4941842;2016;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;27071886;NA;2016;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/s40064-016-1888-z;27006872;PMC4775722;2016;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1371/journal.pone.0158825;27391588;PMC4938534;2016;NA;NA;Vanderbilt University Medical Center enterprise data warehouse;United States;study:epidemiology:analytical;NA;endocrinology;retrospective;50
+NULL;28269833;PMC5333328;2016;NA;NA;virtual data warehouse at NewYork Presbyterian Hospital;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;26792313;NA;2015;12;16;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:epidemiology:evaluative;NA;infectious diseases;retrospective;11964
+10.1186/s12911-015-0223-x;26655696;PMC4676189;2015;12;11;I2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.cgh.2015.07.010;26188137;PMC4655141;2015;12;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:evaluative;NA;hepato-gastroenterology;prospective;30840
+10.1016/j.earlhumdev.2015.08.003;26386610;PMC4662898;2015;12;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;pediatrics, cardiovascular;retrospective;6349
+10.1007/s10877-015-9661-3;25634428;NA;2015;12;NA;NA;NA;methods:cdw-conception;NA;anesthesia;"NA";NA
+10.1109/TBME.2015.2450181;26126271;NA;2015;12;NA;Methodist environment for translational enhancement and outcomes research (METEOR);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1097/NAQ.0000000000000118;26340242;NA;2015;12;NA;VHA's Corporate Data Warehouse (CDW);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1056/NEJMoa1505532;26559572;NA;2015;11;12;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;cardiovascular;prospective;1211
+10.1016/j.compbiomed.2015.08.019;26414378;NA;2015;11;1;imageDWE;NA;methods:cdw-conception;NA;radiology;"NA";NA
+NULL;26568903;PMC4642500;2015;11;NA;Hawai'i Health Data Warehouse (HHDW);NA;methods:cdw-follow-up;NA;"NA";"NA";NA
+10.1016/j.amjmed.2015.04.034;26071821;NA;2015;11;NA;New York City's Health and Hospitals Corporation data warehouse;United States;study:epidemiology:analytical;NA;cardiovascular;retrospective;10674
+10.1007/s12325-015-0258-5;26538232;PMC4662718;2015;11;NA;IMS Patient-Centric Integrated Data Warehouse;United States;study:epidemiology:analytical;NA;infectious diseases, hepato-gastroenterology;retrospective;1707
+10.1016/j.cllc.2014.12.010;25681298;NA;2015;11;NA;Vector Oncology Data Warehouse;United States;study:epidemiology:descriptive;NA;oncology, pneumology;retrospective;609
+10.2515/therapie/2015055;26475750;NA;2015;10;16;eHOP;France;study:epidemiology:analytical;NA;reanimation;retrospective;104
+10.1148/radiol.2015142530;25961634;PMC4613876;2015;10;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;radiology, pneumology;prospective;89168
+NULL;26431136;NA;2015;10;NA;Mount Sinai Data Warehouse;United States;study:epidemiology:descriptive;NA;anesthesia;retrospective;432
+10.3109/10903127.2014.995843;25664379;NA;2015;9;NA;Ambulance Victoria Clinical Data Warehouse;Australia;study:epidemiology:descriptive;NA;emergency;retrospective;1203803
+10.1007/s40264-015-0311-y;26093687;NA;2015;9;NA;I2b2 HEGP (Pompidou University Hospital);France;study:epidemiology:analytical;NA;nephrology;retrospective;76067
+10.3109/10903127.2014.995846;25689322;NA;2015;9;NA;Ambulance Victoria Clinical Data Warehouse;Australia;study:epidemiology:descriptive;NA;emergency;retrospective;1519
+10.1016/j.ijmedinf.2015.05.016;26094821;NA;2015;9;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/S1473-3099(15)00147-4;26112077;NA;2015;9;NA;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:epidemiology:descriptive;NA;infectious diseases, pneumology;retrospective;3523371
+10.1097/QAI.0000000000000653;25886931;NA;2015;8;15;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;infectious diseases;retrospective;210957
+10.1177/1527154415603358;26351216;PMC4679583;2015;8;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1111/cts.12294;26032246;PMC4553136;2015;8;NA;Northwestern Medicine Enterprise Data Warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.jamcollsurg.2015.04.023;26206645;NA;2015;8;NA;Vanderbilt University Medical Center's Perioperative Data Warehouse;United States;study:epidemiology:analytical;NA;infectious diseases;retrospective;768
+10.1016/j.ijporl.2015.06.005;26096747;NA;2015;8;NA;Stanford Translational Research Integrated Database Environment (STRIDE);United States;study:epidemiology:descriptive;NA;pediatrics, otorhinolaryngology, surgery;retrospective;76
+NULL;26672241;NA;2015;7;NA;NA;NA;methods:cdw-deployment;NA;otorhinolaryngology, oncology;"NA";NA
+10.1093/jamia/ocv025;25914099;PMC4810779;2015;7;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;public health;retrospective;534
+10.1016/j.clinthera.2015.03.010;25857595;NA;2015;6;1;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;endocrinology, pharmacology;retrospective;27876
+10.1016/j.urology.2015.01.027;25862121;NA;2015;6;NA;NorthShore University Heath System Data Warehouse;United States;study:epidemiology:descriptive;NA;reproductive biology, endocrinology;retrospective;9176
+10.1177/2045125315577057;26199718;PMC4502586;2015;6;NA;Allscripts data warehouse;United States;study:epidemiology:analytical;NA;pharmacology, psychiatry;retrospective;7711
+10.1177/1460458213504204;25301198;NA;2015;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.jpedsurg.2014.10.048;25783308;NA;2015;5;NA;Nationwide Children's Hospital Enterprise Data Warehouse;United States;study:practice-evaluation;NA;immunologie, pediatrics, infectious diseases;retrospective;513
+10.1542/peds.2014-3290;25755237;NA;2015;4;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;pharmacology;retrospective;420571
+10.1177/1753944714559935;25411353;NA;2015;4;NA;no name;United States;study:epidemiology:analytical;NA;cardiovascular;retrospective;1453
+10.1111/jdv.12666;25174801;NA;2015;4;NA;Seoul National University Clinical Data Warehouse;South Korea;study:epidemiology:descriptive;NA;pediatrics, dermatology;retrospective;111
+10.1186/s13046-015-0146-5;25888436;PMC4380249;2015;3;27;ACORN Data Warehouse;United States;study:epidemiology:descriptive;NA;oncology, hepato-gastroenterology;retrospective;1363
+10.1111/pme.12602;25529863;PMC4368484;2015;3;NA;no name;United States;study:practice-evaluation;NA;pharmacology, pain management;retrospective;1285
+10.1093/jamia/ocu017;25710558;PMC4394967;2015;3;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:descriptive;NA;cardiovascular;retrospective;548
+10.1186/s12879-015-0805-3;25887811;PMC4369345;2015;2;15;no name;United States;study:epidemiology:analytical;NA;infectious diseases, hematology;retrospective;1826745
+10.2196/medinform.3738;25803561;PMC4376146;2015;2;13;NA;NA;methods:cdw-conception;NA;pediatrics;"NA";NA
+10.1186/s12884-015-0430-6;25652103;PMC4332426;2015;2;5;Ambulance Victoria Clinical Data Warehouse;Australia;study:epidemiology:descriptive;NA;emergency, obstetrics;retrospective;1517
+10.1002/acr.22352;24757045;NA;2015;2;NA;Utah Health Science Center Enterprise Data Warehouse (UUHSC);United States;study:epidemiology:analytical;NA;immunologie;retrospective;11062
+10.1111/jsm.12730;25382540;NA;2015;1;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;endocrinology, reproductive biology;retrospective;321674
+NULL;26524889;NA;2015;1;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1007/s12098-014-1585-2;25319813;NA;2015;1;NA;Pediatrix Medical Group Clinical Data Warehouse;NA;methods:cdw-follow-up;NA;"NA";"NA";NA
+10.1017/ice.2014.3;25627761;NA;2015;1;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;hematology, oncology, pharmacology, infectious diseases;retrospective;214
+NULL;26306284;PMC4525266;2015;NA;NA;Columbia University Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;public health, quality;retrospective;4449684
+10.1371/journal.pone.0135503;26302092;PMC4547800;2015;NA;NA;no name;China;study:epidemiology:analytical;NA;pediatrics, infectious diseases;retrospective;3649
+10.4103/2153-3539.161615;26284156;PMC4530506;2015;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;25676968;NA;2015;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;25676945;NA;2015;NA;NA;NA;NA;methods:cdw-conception;NA;public health;"NA";NA
+NULL;26958297;PMC4765670;2015;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;26262215;NA;2015;NA;NA;? (eHOP selon article);NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1155/2015/976272;26543873;PMC4620247;2015;NA;NA;Central data warehouse of the Lombardy region, Italy;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;25991243;NA;2015;NA;NA;EHOP;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.3414/ME14-02-0030;26394900;NA;2015;NA;NA;I2b2;NA;methods:cdw-conception;NA;oncology, pneumology;"NA";NA
+NULL;26262353;NA;2015;NA;NA;Integrating Clinical, Genomics and Environmental Data (ICGED);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.4338/ACI-2014-11-RA-0102;25848418;PMC4377565;2015;NA;NA;Intermountain Healthcare Enterprise Data Warehouse;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;26958221;PMC4765673;2015;NA;NA;Intermountain Healthcare's enterprise data warehouse;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;26262113;PMC5502805;2015;NA;NA;National Institutes of Health's Biomedical Translational Research Information System (BTRIS);NA;methods:cdw-conception;NA;hematology;"NA";NA
+10.5210/ojphi.v7i3.6047;26834938;PMC4731224;2015;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1155/2015/932935;26539541;PMC4619903;2015;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;26152975;NA;2015;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;25991292;NA;2015;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;25991247;NA;2015;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/978-1-4939-1985-7_6;25417081;NA;2015;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;26306276;PMC4525267;2015;NA;NA;Stanford's STRIDE database;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.13063/2327-9214.1125;26290882;PMC4537084;2015;NA;NA;the Knowledge Program (KP) data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1155/2015/126975;26543644;PMC4620379;2015;NA;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:descriptive;NA;oncology, cardiovascular;retrospective;167
+10.1016/j.amjcard.2014.09.020;25438910;PMC4372470;2014;12;15;enterprise data warehouse at the University of Arkansas for Medical Sciences;United States;study:epidemiology:analytical;NA;hepato-gastroenterology, cardiovascular;retrospective;24484
+10.1111/dote.12141;24215617;PMC4018425;2014;12;NA;Carolina Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology;retrospective;308372
+10.1016/j.jbi.2013.11.004;24262893;PMC4026354;2014;12;NA;Biomedical Translational Research Information System (BTRIS) data warehouse ?;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1007/s12028-014-0037-1;25208675;NA;2014;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1097/SPV.0000000000000124;25185625;NA;2014;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1177/1460458213494032;25155030;NA;2014;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.jbi.2014.07.006;25051403;PMC4335712;2014;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.jbi.2014.02.003;24534443;PMC4133331;2014;12;NA;Vanderbilt research data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1007/s11606-014-3028-1;25355088;PMC4239287;2014;12;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;geriatrics, psychiatry;retrospective;807
+10.1016/j.urology.2014.06.086;25440989;NA;2014;12;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;urology, geriatrics;retrospective;92448
+10.1186/1479-5876-12-S2-S8;25471452;PMC4255915;2014;11;28;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/1479-5876-12-S2-S7;25471327;PMC4255913;2014;11;28;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.1001/jamapediatrics.2014.1353;25222512;NA;2014;11;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;pediatrics, neonatology, pneumology;retrospective;6210
+10.1186/1471-230X-14-185;25326084;PMC4287486;2014;10;17;Mount Sinai Data Warehouse;United States;study:epidemiology:analytical;NA;neurology, hepato-gastroenterology;retrospective;316
+NULL;25237867;NA;2014;10;NA;Carolina Data Warehouse;United States;study:epidemiology:descriptive;NA;pharmacology;retrospective;7180
+10.1111/apt.12923;25155259;PMC5331854;2014;10;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology, geriatrics;retrospective;450
+10.1186/1471-2105-15-306;25230706;PMC4261581;2014;9;18;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.2105/AJPH.2014.302090;25100421;PMC4151890;2014;9;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;hepato-gastroenterology, infectious diseases;retrospective;5499743
+10.1109/JBHI.2013.2292591;25192572;PMC4386600;2014;9;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.clcc.2014.05.001;25065655;NA;2014;9;NA;ACORN Data Warehouse;United States;study:practice-evaluation;NA;oncology, hepato-gastroenterology;retrospective;648
+10.2196/medinform.3590;25599727;PMC4288065;2014;8;6;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/amiajnl-2013-002370;24682495;PMC4078282;2014;8;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/amiajnl-2014-002756;24778202;PMC4078294;2014;8;NA;PCORnet Clinical Research Data Network;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1111/1742-6723.12248;24931380;NA;2014;8;NA;VACIS(®) clinical data warehouse;Australia;study:epidemiology:descriptive;NA;cardiovascular;retrospective;933
+10.1377/hlthaff.2014.0147;25006136;NA;2014;7;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.ijmedinf.2014.04.001;24867195;NA;2014;7;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1377/hlthaff.2014.0054;25006147;NA;2014;7;NA;VHA Corporate Data Warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1089/AID.2013.0287;24564256;NA;2014;7;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;infectious diseases, geriatrics;retrospective;1153
+10.1002/jhm.2191;24692303;NA;2014;7;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;public health;retrospective;77738
+10.1038/jp.2014.37;24651734;PMC4420242;2014;6;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;pediatrics, hepato-gastroenterology;retrospective;58820
+10.1136/amiajnl-2013-001950;24287172;PMC3994861;2014;6;NA;I2b2, STRIDE;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.4172/2161-0959.1000166;25068077;PMC4109326;2014;5;15;Mount Sinai Data Warehouse;United States;study:epidemiology:analytical;NA;nephrology, pharmacology;retrospective;58
+10.1542/peds.2013-3291;24777232;PMC4006440;2014;5;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:descriptive;NA;infectious diseases, pediatrics, urology, nephrology;retrospective;13030
+10.3904/kjim.2014.29.3.361;24851071;PMC4028526;2014;5;NA;Seoul National University Clinical Data Warehouse;South Korea;study:epidemiology:analytical;NA;rheumatology;retrospective;179
+10.1016/j.jss.2013.10.036;24326179;NA;2014;4;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.4258/hir.2014.20.2.109;24872909;PMC4030054;2014;4;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/s10549-014-2892-z;24596047;NA;2014;4;NA;ACORN Data Warehouse;United States;study:epidemiology:analytical;NA;oncology, gynecology;retrospective;797
+10.1016/j.jbi.2013.11.010;24321170;PMC4026169;2014;4;NA;Allscripts data warehouse;United States;study:epidemiology:analytical;NA;pharmacology;retrospective;237748
+NA;24893499;NA;2014;3;NA;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:epidemiology:descriptive;NA;infectious diseases;retrospective;197100
+10.1007/s00277-013-1951-6;24318541;NA;2014;3;NA;no name;Germany;study:epidemiology:analytical;NA;infectious diseases, hematology, oncology;retrospective;93
+10.1089/pop.2013.0009;23869539;NA;2014;2;NA;Utah Health Science Center Enterprise Data Warehouse (UUHSC);United States;study:medico-economy;NA;endocrinology;retrospective;4978
+10.1007/s12325-014-0098-8;24477354;PMC3930836;2014;2;NA;IMS Patient-Centric Integrated Data Warehouse;United States;study:medico-economy;NA;endocrinology;retrospective;416
+10.1071/AH13163;24480646;NA;2014;2;NA;Ambulance Victoria Clinical Data Warehouse;Australia;study:epidemiology:analytical;NA;public health;retrospective;12e5
+10.1001/jamapediatrics.2013.4208;24322269;PMC3927948;2014;2;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;pharmacology;retrospective;1525739
+10.1016/j.urolonc.2013.01.003;23506962;PMC4417353;2014;1;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;oncology, urology, geriatrics, public health;retrospective;275831
+10.1016/j.urolonc.2013.04.013;23911680;NA;2014;1;NA;no name;United States;study:epidemiology:analytical;NA;oncology, urology;retrospective;112221
+10.13063/2327-9214.1068;25848612;PMC4371470;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.13063/2327-9214.1097;25848623;PMC4371501;2014;NA;NA;CHARN data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.5210/ojphi.v6i2.5249;25379128;PMC4221087;2014;NA;NA;Florida Health Data Warehouse (FHDW);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.13063/2327-9214.1049;25848584;PMC4371424;2014;NA;NA;HMO Research Network (HMORN) Virtual Data Warehouse (VDW);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;24743073;NA;2014;NA;NA;I2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/1471-2164-15-S8-S3;25435347;PMC4248814;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.4338/ACI-2014-03-RA-0019;25298815;PMC4187092;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;25160362;NA;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;25160351;NA;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;25160307;NA;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/2041-1480-5-32;25089180;PMC4118313;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;24943528;NA;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1155/2014/435254;24892048;PMC4032693;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;24825683;NA;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1371/journal.pone.0087397;24551056;PMC3923765;2014;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;25954574;PMC4419766;2014;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.1186/2047-2501-2-4;25825668;PMC4340801;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;25954394;PMC4419910;2014;NA;NA;p-medicine;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.13063/2327-9214.1099;25848595;PMC4371519;2014;NA;NA;visit data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;25160292;NA;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;25160190;NA;2014;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1371/journal.pone.0115420;25517412;PMC4269438;2014;NA;NA;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:medico-economy;NA;biology, infectious diseases;retrospective;226452
+10.1371/journal.pone.0114727;25490718;PMC4260875;2014;NA;NA;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:medico-economy;NA;infectious diseases, biology;retrospective;38e5
+10.1186/1546-0096-11-45;24299016;PMC4176131;2013;12;3;Stanford Translational Research Integrated Database Environment (STRIDE);United States;study:epidemiology:analytical;NA;ophtalmology, rheumatology, pediatrics;retrospective;297
+10.5808/GI.2013.11.4.186;24465229;PMC3897845;2013;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/1475-2840-12-159;24180232;PMC4176752;2013;11;4;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:analytical;NA;cardiovascular, endocrinology, pharmacology;retrospective;1342
+10.1002/jcph.151;23907716;NA;2013;11;NA;Allscripts data warehouse;United States;study:epidemiology:descriptive;NA;pharmacology, psychiatry, cardiovascular;retrospective;207802
+10.1145/2525314.2525320;27617325;PMC5013659;2013;11;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.4037/ajcc2013991;24186823;PMC4042540;2013;11;NA;Information Warehouse at The Ohio State University Wexner Medical Center (OSUWMC);United States;study:epidemiology:analytical;NA;reanimation;retrospective;7790
+10.1007/s00464-013-3077-2;23836125;NA;2013;11;NA;Vanderbilt Procedural Outcomes Database (VPOD);United States;study:epidemiology:descriptive;NA;surgery, hepato-gastroenterology;retrospective;953
+10.1016/j.jpeds.2013.06.021;23896191;PMC4102585;2013;11;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;pharmacology, obstetrics, infectious diseases;retrospective;690
+10.1126/scitranslmed.3006548;24107779;PMC3963511;2013;10;9;Mount Sinai Data Warehouse;United States;study:epidemiology:analytical;NA;pharmacology;retrospective;3918732
+10.1016/j.jbi.2013.06.010;23820016;PMC3810243;2013;10;NA;NewYork-Presbyterian Hospital's clinical data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.jpeds.2013.04.067;23769504;PMC4027028;2013;10;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;neonatology, pediatrics, pneumology;retrospective;228
+10.1111/1346-8138.12232;23957667;NA;2013;10;NA;Seoul National University Clinical Data Warehouse;South Korea;study:epidemiology:descriptive;NA;immunologie;retrospective;30
+10.1086/673154;24018927;NA;2013;10;NA;Denver Health Medical Center Data Warehouse;United States;study:epidemiology:analytical;NA;infectious diseases, surgery;retrospective;2181
+NULL;24471333;NA;2013;9;NA;no name;China;study:epidemiology:analytical;NA;pharmacology, hepato-gastroenterology, nephrology;retrospective;1982
+10.1200/JOP.2012.000822;23943889;NA;2013;9;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;hematology, oncology;retrospective;137
+10.1177/1740774513491338;23785065;PMC4213063;2013;8;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;23919446;NA;2013;7;1;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;public health;retrospective;4946621
+10.1016/j.radonc.2012.09.019;23394741;PMC5119279;2013;7;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/1475-2840-12-87;23767412;PMC3687565;2013;6;14;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:analytical;NA;cardiovascular;retrospective;993
+10.1016/j.dss.2013.02.008;23729945;PMC3665424;2013;6;1;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.4258/hir.2013.19.2.102;23882415;PMC3717433;2013;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.jbi.2013.01.005;23402960;PMC3660520;2013;6;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1136/amiajnl-2012-001376;23523876;PMC3715349;2013;6;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;pneumology;retrospective;48449
+10.1136/amiajnl-2012-001401;23467473;PMC3628065;2013;5;1;Stanford Translational Research Integrated Database Environment (STRIDE);United States;study:epidemiology:analytical;NA;infectious diseases;retrospective;4891
+10.1542/peds.2012-2634;23569092;NA;2013;5;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:medico-economy;NA;pediatrics, neonatology;retrospective;5308
+10.1098/rsfs.2012.0088;24427531;PMC3638485;2013;4;6;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1093/aje/kws293;23462966;PMC3613126;2013;4;1;Marshfield Clinic’s Enterprise Data Warehouse;United States;study:epidemiology:descriptive;NA;odontology;retrospective;2056
+10.1097/MLR.0b013e31827da95a;23269113;NA;2013;4;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;geriatrics, public health;retrospective;4598408
+10.1086/669864;23466915;NA;2013;4;NA;NorthShore University Heath System Data Warehouse;United States;study:epidemiology:analytical;NA;infectious diseases, hepato-gastroenterology;retrospective;829
+10.1071/AH11161;23257311;NA;2013;2;NA;Ambulance Victoria Clinical Data Warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/bmjqs-2012-001102;23038408;NA;2013;2;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.4338/ACI-2012-12-RA-0051;23650491;PMC3644818;2013;NA;NA;Allscripts data warehouse;United States;study:practice-evaluation;NA;pharmacology;retrospective;263597
+10.1080/00918369.2013.744932;23414280;NA;2013;NA;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;psychiatry, geriatrics;retrospective;15409
+10.5210/ojphi.v5i2.4634;23923094;PMC3733760;2013;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;24303325;PMC3814467;2013;NA;NA;Carolina Data Warehouse for Health (CDW-H);NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;24303270;NA;2013;NA;NA;Duke Medicine Enterprise Data Warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;23920620;NA;2013;NA;NA;eHOP;NA;methods:cdw-conception;NA;infectious diseases, surgery;retrospective;NA
+NULL;24303274;NA;2013;NA;NA;I2b2;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;24551366;PMC3900207;2013;NA;NA;I2b2, HMO Research Network's Virtual Data Warehouse, Observational Medical Outcomes Partnership (OMOP);NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.3414/ME12-01-0046;23450342;NA;2013;NA;NA;INHERITANCE data warehouse;NA;methods:cdw-deployment;NA;cardiovascular;"NA";NA
+10.13063/2327-9214.1021;25848564;PMC4371426;2013;NA;NA;New York Presbyterian Hospital's clinical data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.12954/PI.12015;24223403;PMC3814112;2013;NA;NA;none;NA;methods:cdw-deployment;NA;oncology, urology;"NA";NA
+10.2174/1874431101307010034;24403981;PMC3881102;2013;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;24303263;PMC3845791;2013;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.1109/EMBC.2013.6610615;24110802;NA;2013;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;23920922;PMC4817854;2013;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;23920818;NA;2013;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;23920680;NA;2013;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;24303229;PMC3845760;2013;NA;NA;Stanford clinical data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.13063/2327-9214.1010;25848561;PMC4371514;2013;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1371/journal.pone.0063499;23717437;PMC3662653;2013;NA;NA;Stanford Translational Research Integrated Database Environment (STRIDE);United States;study:epidemiology:analytical;NA;cardiovascular, pharmacology;retrospective;1392
+10.1186/2193-1801-2-638;24340245;PMC3858594;2013;NA;NA;Clinical Decision Information System Data Warehouse;United States;study:epidemiology:analytical;NA;genetics, oncology, gynecology;retrospective;912
+10.2147/VHRM.S39351;23440682;PMC3578669;2013;NA;NA;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:analytical;NA;cardiovascular;retrospective;260
+10.1371/journal.pcbi.1003405;24385893;PMC3873228;2013;NA;NA;I2b2 HEGP (Pompidou University Hospital);France;study:epidemiology:analytical;NA;genetics, pediatrics;retrospective;72711
+10.1186/2193-1801-1-72;23420567;PMC3568480;2012;12;NA;Adverse Drug Reaction (ADR or iADR) data warehouse;NA;methods:cdw-tools;NA;pharmacology;"NA";NA
+10.1136/amiajnl-2012-000960;22878682;PMC3486732;2012;12;NA;I2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.2196/ijmr.2126;23608745;PMC3626127;2012;11;14;DB4US;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1007/s00228-012-1289-3;22546896;NA;2012;11;NA;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:analytical;NA;immunologie, hepato-gastroenterology;retrospective;370
+10.1136/amiajnl-2012-000850;22523345;PMC3422842;2012;10;NA;I2b2 HEGP (Pompidou University Hospital);France;study:epidemiology:evaluative;NA;pharmacology;retrospective;8692
+10.1016/j.genhosppsych.2012.04.003;22632926;NA;2012;10;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;psychiatry, geriatrics;retrospective;89
+10.1186/1472-6947-12-106;22970696;PMC3537747;2012;9;13;Northwestern Medical Enterprise Data Warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.jamcollsurg.2012.05.024;22726893;PMC3423490;2012;9;NA;no name;United States;study:epidemiology:analytical;NA;public health, surgery;retrospective;1442
+10.1016/j.jbi.2012.06.005;22750536;PMC4398308;2012;8;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1093/cid/cis422;22534148;PMC3520385;2012;8;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;infectious diseases;retrospective;1514
+NULL;22973733;NA;2012;7;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/archdischild-2011-300806;22535238;NA;2012;7;NA;Clalit Health Services Data Warehouse;Israel;study:epidemiology:analytical;NA;endocrinology, genetics;retrospective;428
+10.1016/j.juro.2012.02.2560;22591958;NA;2012;7;NA;Northwestern Medicine Enterprise Data Warehouse;United States;study:epidemiology:descriptive;NA;urology;retrospective;118
+10.1089/jwh.2011.3248;22500552;NA;2012;7;NA;no name;United States;study:epidemiology:analytical;NA;obstetrics, hematology;retrospective;59282
+10.1186/1756-0500-5-314;22716038;PMC3532189;2012;6;20;ACORN Data Warehouse;United States;study:epidemiology:analytical;NA;oncology, hepato-gastroenterology;retrospective;182
+10.1136/amiajnl-2011-000115;21946237;PMC3392865;2012;6;NA;Duke Integrated Subject Cohort and Enrollment Research Network (DISCERN);NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.4258/hir.2012.18.2.145;22844650;PMC3402557;2012;6;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1136/amiajnl-2011-000335;21926112;PMC3392872;2012;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.cmpb.2010.10.003;21051098;NA;2012;6;NA;NA;NA;methods:cdw-tools;NA;oncology, urology;"NA";NA
+10.1111/j.1533-2500.2011.00494.x;21951753;NA;2012;6;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;geriatrics, neurology, endocrinology, pain management;retrospective;2694
+10.1111/j.1533-2500.2011.00495.x;21951787;NA;2012;6;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;geriatrics, pain management;retrospective;878
+10.1186/1472-6947-12-47;22646313;PMC3407791;2012;5;30;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.1186/1475-2840-11-53;22594344;PMC3416676;2012;5;17;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:analytical;NA;cardiovascular, endocrinology, pharmacology;retrospective;1202
+10.1002/pds.3247;22552976;NA;2012;5;NA;Oncology Services Comprehensive Electronic Records Data Warehouse;United States;study:epidemiology:analytical;NA;oncology, gynecology, pneumology, hepato-gastroenterology, urology;retrospective;3415
+10.1053/j.ajkd.2011.11.041;22285224;PMC3328668;2012;5;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;nephrology, endocrinology;retrospective;379
+10.1007/s10198-011-0302-6;21350859;PMC3286594;2012;4;NA;NA;NA;methods:cdw-deployment;NA;public health;prospective;NA
+10.1158/1055-9965.EPI-11-1075;22337532;PMC3319397;2012;4;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/s10278-011-9434-6;22080292;PMC3295972;2012;4;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1002/sim.4417;22161304;NA;2012;3;30;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/1471-2105-13-S4-S5;22536972;PMC3303735;2012;3;28;ONCO-i2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;22464502;NA;2012;3;7;South African National Health Laboratory Service (NHLS) Corporate Data Warehouse;South Africa;study:epidemiology:descriptive;NA;infectious diseases, public health;retrospective;18e3
+10.1038/jp.2011.65;21593813;PMC3289772;2012;3;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;pediatrics, hepato-gastroenterology;retrospective;5594
+10.1007/s12630-011-9629-9;22105602;NA;2012;3;NA;no name;Canada;study:epidemiology:analytical;NA;surgery;retrospective;39433
+10.1016/j.jpeds.2011.08.033;21962601;PMC4432910;2012;2;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:descriptive;NA;pediatrics, neonatology, pneumology;retrospective;8167
+10.1186/1471-2105-13-S1-S10;22373303;PMC3471346;2012;1;25;Corvus data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.cmpb.2010.07.002;20728956;NA;2012;1;NA;Erasmus Medical Center Rotterdam;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.2147/PPA.S33968;23055698;PMC3461605;2012;NA;NA;ARNO Observatory data warehouse;Italy;study:medico-economy;NA;endocrinology;retrospective;169375
+NULL;22874375;NA;2012;NA;NA;I2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;23304381;PMC3540443;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;23304327;PMC3540469;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;23304288;PMC3540441;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/bmjopen-2012-001622;23117567;PMC3533000;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;22925782;NA;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;22890352;NA;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;22874264;NA;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;22874194;NA;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;22797045;NA;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/978-1-61779-785-9_7;22565835;NA;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.3414/ME11-01-0048;22311158;NA;2012;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;22874184;NA;2012;NA;NA;Pavia data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.jbi.2011.08.003;21872681;NA;2011;12;NA;Data Warehouse for Translational Research (DW4TR);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.jbi.2011.09.005;21986292;PMC3251720;2011;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/amiajnl-2011-000339;21856687;PMC3241170;2011;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;22292392;NA;2011;10;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;22292391;NA;2011;10;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/s10278-010-9350-1;21042830;PMC3180537;2011;10;NA;Tampere Research Archival System (TARAS) data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1007/s10916-011-9720-3;21537849;NA;2011;10;NA;University of Utah Enterprise Data Warehouse, I2b2;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1186/1475-2840-10-74;21827713;PMC3163179;2011;8;10;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:analytical;NA;cardiovascular, pharmacology, nephrology;retrospective;434
+10.1111/j.1475-6773.2011.01247.x;21352224;PMC3165188;2011;8;NA;Clalit Health Services Data Warehouse;Israel;study:epidemiology:evaluative;NA;public health;prospective;38e5
+NULL;21933571;NA;2011;8;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1111/j.1744-618X.2010.01177.x;21521456;NA;2011;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/1475-2840-10-45;21605415;PMC3118327;2011;5;23;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:analytical;NA;pharmacology, cardiovascular;retrospective;160
+10.1016/j.jbi.2010.11.008;21130181;PMC3063322;2011;4;NA;Duke Medicine's enterprise data warehouse;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.1111/j.1945-1474.2010.00125.x;21385280;NA;2011;4;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;geriatrics, public health;retrospective;284
+10.1038/jp.2010.82;20651693;NA;2011;3;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;neonatology, pediatrics, nephrology;retrospective;66526
+NULL;21473425;NA;2011;2;NA;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:descriptive;NA;otorhinolaryngology, public health;retrospective;27111
+10.5210/ojphi.v3i2.3856;23569607;PMC3615784;2011;NA;NA;ARICABA data warehouse;NA;methods:cdw-deployment;NA;infectious diseases;"NA";NA
+NULL;21335698;NA;2011;NA;NA;enterprise data warehouse within a Saudi Arabian academic healthcare facility;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.3414/ME09-01-0087;21691676;NA;2011;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;21893816;NA;2011;NA;NA;Roogle;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.1371/journal.pone.0022846;21829659;PMC3149060;2011;NA;NA;Utrecht Patient Oriented Database (UPOD);Netherlands;study:epidemiology:analytical;NA;neurology, infectious diseases, biology;retrospective;537
+NULL;22195186;PMC3243161;2011;NA;NA;Clinical Data Warehouse at the University of Texas Health Science Center at Houston;United States;study:epidemiology:analytical;NA;pharmacology;retrospective;94
+10.1038/jp.2010.37;20237489;NA;2010;12;NA;Pediatrix BabySteps Clinical Data Warehouse;United States;study:practice-evaluation;NA;pediatrics, neonatology;retrospective;494255
+10.1185/03007995.2010.530140;20973616;NA;2010;12;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;psychiatry, geriatrics;retrospective;12077
+10.1177/1460458210380527;21216807;PMC3099595;2010;12;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;cardiovascular;prospective;1527
+NULL;21347024;PMC3041287;2010;11;13;STRIDE;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NA;21347102;PMC3041383;2010;11;13;Columbia University Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;endocrinology, public health;retrospective;30
+10.1001/archinternmed.2010.405;21059973;NA;2010;11;8;Ottawa Hospital Data Warehouse;Canada;study:epidemiology:analytical;NA;infectious diseases;retrospective;136877
+10.1016/j.jbi.2010.04.003;20382264;NA;2010;10;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1136/jamia.2009.001396;20819869;PMC2995666;2010;10;NA;Columbia University Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;nephrology;retrospective;2494
+10.2217/fca.10.81;20932117;NA;2010;9;NA;NA;NA;methods:cdw-conception;NA;cardiovascular;retrospective;NA
+10.1186/1475-2840-9-38;20712859;PMC2933671;2010;8;16;Clinical Data Warehouse of Nihon University School of Medicine;Japan;study:epidemiology:analytical;NA;cardiovascular;retrospective;1462
+10.1186/1479-5876-8-68;20642836;PMC2914663;2010;7;19;I2b2;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1002/art.27469;20506251;PMC2956122;2010;7;NA;Utah Health Science Center Enterprise Data Warehouse (UUHSC);United States;study:epidemiology:analytical;NA;immunologie;retrospective;1037
+NULL;20812490;NA;2010;4;NA;Clalit Health Services;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1007/s10278-008-9167-3;19011943;PMC3043777;2010;4;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.5055/jom.2010,0013;20481178;NA;2010;4;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:descriptive;NA;pharmacology, addiction, geriatrics, pain management;retrospective;18
+NULL;21347133;PMC3041534;2010;3;1;data warehouse at Columbia University Medical Center;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;21347152;PMC3041530;2010;3;1;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.artmed.2009.07.012;20122820;NA;2010;3;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.clp.2010.01.016;20363447;NA;2010;3;NA;Pediatrix BabySteps Data Warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.jbi.2009.08.004;19683070;NA;2010;2;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;20841676;NA;2010;NA;NA;I2b2 HEGP ( Pompidou University Hospital);NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.5210/ojphi.v2i3.3348;23569592;PMC3615769;2010;NA;NA;North Carolina Comprehensive Assessment for Tracking Community Health (NC CATCH);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;20841858;NA;2010;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.4338/ACI-2010-05-RA-0034;23616851;PMC3633318;2010;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.5210/ojphi.v2i1.2920;23569581;PMC3615758;2010;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.3389/fphys.2010.00147;21423387;PMC3059952;2010;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;21141302;NA;2010;NA;NA;VHA Corporate Data Warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.4338/ACI-2009-12-RA-0026;21552466;PMC3087306;2010;NA;NA;Columbia University Clinical Data Warehouse;United States;study:epidemiology:analytical;NA;endocrinology, oncology, hepato-gastroenterology;retrospective;98
+NULL;20351882;PMC2815386;2009;11;14;nformation Warehouse at the Ohio State University Medical Center;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;20351858;PMC2815471;2009;11;14;Stanford Translational Research Integrated Database Environment (STRIDE) clinical data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;20351885;PMC2815395;2009;11;14;STRIDE Clinical Data Warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;20351886;PMC2815452;2009;11;14;STRIDE data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;20351920;PMC2815466;2009;11;14;Research Patient Data Registry;United States;study:practice-evaluation;NA;pediatrics, endocrinology, pharmacology;retrospective;854
+10.1016/j.pcd.2009.06.004;19604741;NA;2009;11;NA;Secure Anonymised Information Linkage (SAIL) databank;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/1471-2105-10-S10-S10;19796394;PMC2755818;2009;10;1;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1186/1472-6963-9-157;19732426;PMC2744675;2009;9;4;SAIL databank on a DB2 platform (Data Warehouse Edition on AIX);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1097/BPO.0b013e3181aa586b;19568018;NA;2009;8;NA;Utah Health Science Center Enterprise Data Warehouse (UUHSC);United States;study:epidemiology:analytical;NA;orthopedics;retrospective;1649
+10.1186/gm73;19638188;PMC2717399;2009;7;22;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1097/ACM.0b013e3181a8144d;19550198;PMC2884382;2009;7;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;19562958;NA;2009;5;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1097/PTS.0b013e31819aa951;19920438;NA;2009;3;NA;NA;NA;methods:cdw-tools;NA;pharmacology;"NA";NA
+10.1016/j.amepre.2008.10.013;19162434;NA;2009;3;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology, infectious diseases;retrospective;13257
+10.1007/s10029-008-0421-x;18704619;NA;2009;2;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology;retrospective;637518
+10.3414/ME9236;19621114;NA;2009;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.3414/ME9240;19657544;NA;2009;NA;NA;Open European Nephrology Science Center (OpEN.SC);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1159/000156721;18799871;NA;2009;NA;NA;Utah Health Science Center Enterprise Data Warehouse (UUHSC);United States;study:epidemiology:analytical;NA;cardiovascular, nephrology;retrospective;10654
+10.1177/1460458208096556;19008277;NA;2008;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18999063;NA;2008;11;6;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;18999220;NA;2008;11;6;Ohio State University Medical Center (OSUMC) data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18998950;NA;2008;11;6;Ohio State University Medical Center (OSUMC) Information Warehouse (IW);NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18998894;NA;2008;11;6;Ohio State University Medical Center (OSUMC) Information Warehouse (IW);NA;methods:cdw-tools;NA;public health;"NA";NA
+NULL;18999019;NA;2008;11;6;RPDR data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18999040;NA;2008;11;6;The Ohio State University Medical Center (OSUMC) data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18999141;NA;2008;11;6;Massachusetts General Hospital Physicians Organization (MGPO) : Partners Quality Data Warehouse (QDW);United States;study:epidemiology:evaluative;NA;public health, general medicine;retrospective;NA
+10.1161/CIRCOUTCOMES.108.801654;20031802;NA;2008;11;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.outlook.2008.06.011;18922275;NA;2008;10;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.2390/biecoll-jib-2008-93;20134070;NA;2008;8;25;BioDWH data warehouse;NA;methods:cdw-tools;NA;"NA";"NA";NA
+10.1186/1476-072X-7-30;18544174;PMC2494543;2008;6;11;Spatial OLAP (On-Line Analytical Processing) Visualization and Analysis Tool (SOVAT);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.jacr.2007.09.004;18312970;NA;2008;3;NA;RadBank data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.ijporl.2007.10.016;18082900;NA;2008;2;NA;Nemours Data Warehouse;United States;study:epidemiology:analytical;NA;pediatrics, infectious diseases, radiology;retrospective;45
+NULL;18487773;NA;2008;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18694189;NA;2007;10;11;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18694133;NA;2007;10;11;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;18694098;NA;2007;10;11;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;18694001;NA;2007;10;11;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18694100;NA;2007;10;11;Ohio State University Medical Center (OSUMC) Information Warehouse (IW);NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;18693848;PMC2813662;2007;10;11;Intermountain Healthcare Enterprise Data Warehouse;United States;study:practice-evaluation;NA;public health;retrospective;2038
+10.1111/j.1532-5415.2007.01389.x;17727646;NA;2007;10;NA;Beverly Healthcare Data Warehouse;United States;study:epidemiology:analytical;NA;hematology, nephrology;retrospective;6200
+10.1258/000456307781645987;17761033;NA;2007;9;NA;Burton data warehouse;United States;study:epidemiology:analytical;NA;allergology, biology;retrospective;4006
+NULL;19455246;PMC2675833;2007;6;8;Pennsylvania Cancer Alliance Bioinformatics Consortium Datawarehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/S1553-7250(07)33029-8;17503680;NA;2007;5;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:practice-evaluation;NA;emergency;retrospective;39704
+10.1200/JCO.2006.07.2777;17442990;NA;2007;4;20;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;oncology, pneumology, urology, hepato-gastroenterology, pharmacology, endocrinology;retrospective;87678
+10.1007/s10278-006-0859-2;16953339;PMC3043890;2007;3;NA;Bio-Image Warehouse System (BIWS);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1111/j.1365-2834.2007.00690.x;17352698;NA;2007;3;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.otohns.2006.09.003;17275535;NA;2007;2;NA;Nemours Data Warehouse;United States;study:epidemiology:descriptive;NA;pediatrics, infectious diseases;retrospective;89
+NULL;18066419;NA;2007;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;17911844;NA;2007;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;17911750;NA;2007;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1160/ME0374;17938772;NA;2007;NA;NA;Osaka University Hospital CDW;Japan;study:epidemiology:analytical;NA;pharmacology, nephrology, infectious diseases;retrospective;NA
+10.1186/1471-2105-7-532;17169146;PMC1713253;2006;12;14;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;16985387;NA;2006;12;NA;New York State Department of Health data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1109/TVCG.2006.98;17073367;NA;2006;12;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;16933576;NA;2006;8;NA;Goodroe Healthcare Solutions Data Warehouse;United States;study:epidemiology:descriptive;NA;cardiovascular;retrospective;2070
+10.1186/1471-2377-6-26;16875503;PMC1550425;2006;7;28;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;public health, neurology;retrospective;150
+NULL;16869326;NA;2006;7;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1016/j.ejim.2005.11.022;16762779;NA;2006;7;NA;Clalit Health Services Data Warehouse;Israel;study:epidemiology:descriptive;NA;public health;retrospective;62893
+10.1097/01.ta.0000218217.42861.b7;16688065;NA;2006;5;NA;no name;United States;study:epidemiology:analytical;NA;public health;prospective;10840
+10.1016/j.ijmedinf.2005.07.037;16153886;NA;2006;4;NA;Sherbrooke University hospital (CHUS) data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1007/s10029-005-0030-x;16151608;NA;2006;3;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;cardiovascular, surgery, hepato-gastroenterology;retrospective;10782
+10.1097/01.inf.0000202137.37642.ab;16511389;NA;2006;3;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;pediatrics, pneumology, infectious diseases;retrospective;776
+NULL;16548408;NA;2006;2;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;17238767;PMC1839498;2006;NA;NA;MedInfo DDW;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;17102379;NA;2006;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;17238553;PMC1839676;2006;NA;NA;Quality Data Warehouse (QDW);NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;17238636;PMC1839593;2006;NA;NA;Systems and Practice Analysis for Resident Competencies (SPARC);NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;17102235;NA;2006;NA;NA;Intermountain Healthcare Enterprise Data Warehouse;United States;study:epidemiology:analytical;NA;hepato-gastroenterology;retrospective;931
+NULL;17238663;PMC1839563;2006;NA;NA;Research Patient Data Repository (RPDR) data warehouse;NA;methods:cdw-follow-up;NA;"NA";"NA";NA
+NULL;16249300;NA;2005;11;NA;University of Michigan Health System data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;16166867;NA;2005;10;NA;Indiana Medicaid data warehouse;United States;study:medico-economy;NA;public health, cardiovascular, endocrinology;retrospective;19548
+NULL;18066371;PMC2047311;2005;9;6;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1109/DEXA.2005.118;20802821;PMC2929138;2005;8;26;INDUS (Intelligent Data Understanding System);NA;methods:cdw-deployment;NA;"NA";"NA";NA
+/S0042-96862005000800021;16184286;PMC2626320;2005;8;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1093/bioinformatics/bti1026;15961502;NA;2005;6;NA;YeastHub;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.ijmedinf.2004.06.005;15694636;NA;2005;3;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;16160254;NA;2005;NA;NA;Archimed data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;16779156;PMC1560793;2005;NA;NA;Medical Quality Improvement Consortium (MQIC) data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1016/j.jsr.2005.10.002;16297933;NA;2005;NA;NA;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1504/IJBRA.2005.006903;18048122;PMC2574433;2005;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;16779440;PMC1560862;2005;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;16779063;PMC1560632;2005;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;16160387;NA;2005;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;16160342;NA;2005;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;16160228;NA;2005;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;15972003;NA;2005;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;16779011;PMC1560759;2005;NA;NA;no name;United States;study:epidemiology:analytical;NA;public health;retrospective;18432
+10.1016/j.jcrc.2004.08.008;15648044;NA;2004;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1517/14622416.5.7.933;15469411;NA;2004;10;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+10.1197/jamia.M1498;15187073;PMC516241;2004;10;NA;South Central VA Healthcare Network (SCVAHCN) Data Warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;15484440;NA;2004;9;NA;DBMap;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;15156279;NA;2004;5;NA;BioDW;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;15035525;NA;2004;3;NA;neuroinformatics database system (NIDS);NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;15853268;NA;2004;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;15810517;NA;2004;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;15537134;NA;2004;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;15360884;NA;2004;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;15137228;NA;2004;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;15137212;NA;2004;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;14971080;NA;2004;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;14668218;NA;2003;12;12;JXP4BIGI;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1309/TXXA-BU8M-W75L-04KF;14671967;NA;2003;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1309/W8J8-5AG4-WDG6-JGJ9;14608890;NA;2003;11;NA;no name;United States;study:epidemiology:descriptive;NA;biology;retrospective;438180
+10.1197/jamia.M1299;12807807;PMC212782;2003;10;NA;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;14596393;PMC1360949;2003;10;NA;Veterans Health Administration (VHA) Corporate Data Warehouse;United States;study:epidemiology:analytical;NA;public health;retrospective;126076
+NULL;14570374;NA;2003;10;NA;no name;United States;study:epidemiology:analytical;NA;surgery, public health;retrospective;10840
+NULL;12909154;NA;2003;8;NA;Cellsecu;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;12601404;NA;2003;2;21;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;15906697;NA;2003;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;14728522;PMC1480068;2003;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;14728426;PMC1480241;2003;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;14728416;PMC1480260;2003;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;14664047;NA;2003;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;14663969;NA;2003;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;12874656;NA;2003;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;14728321;PMC1480037;2003;NA;NA;no name;United States;study:epidemiology:descriptive;NA;cardiovascular, pharmacology;retrospective;7321
+NULL;14728404;PMC1480253;2003;NA;NA;no name;United States;study:epidemiology:descriptive;NA;biology, infectious diseases;retrospective;271939
+NULL;12234716;NA;2002;10;NA;no name;United States;study:epidemiology:analytical;NA;endocrinology;retrospective;30383
+NULL;11971885;PMC344584;2002;6;NA;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;11911606;NA;2002;3;NA;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;12766277;NA;2002;NA;NA;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;12463869;PMC2244483;2002;NA;NA;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;11433546;NA;2001;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11409277;NA;2001;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11234730;NA;2001;2;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11141515;PMC345645;2001;2;NA;no name;Germany;study:epidemiology:descriptive;NA;public health;retrospective;28293
+NULL;11604699;NA;2001;NA;NA;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;11452582;NA;2001;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11452581;NA;2001;NA;NA;NA;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;11452577;NA;2001;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11452576;NA;2001;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11452575;NA;2001;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11452574;NA;2001;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11452573;NA;2001;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11452578;NA;2001;NA;NA;University of Virginia Health System;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;11137474;NA;2e3;12;NA;Clinical data repository (CDR) at the University of Virginia Health System;NA;methods:cdw-follow-up;NA;"NA";"NA";NA
+NULL;11066281;NA;2e3;3;NA;no name;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;11187663;NA;2e3;NA;NA;Management Information System;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;11187660;NA;2e3;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11187532;NA;2e3;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11079907;PMC2243721;2e3;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;11080028;PMC2243863;2e3;NA;NA;NA;NA;methods:cdw-tools;NA;"NA";"NA";NA
+NULL;10622868;NA;1999;11;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10622921;NA;1999;10;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10620843;NA;1999;9;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10387700;NA;1999;5;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10387522;NA;1999;5;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10346471;NA;1999;3;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10724925;NA;1999;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10724922;NA;1999;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10566459;PMC2232504;1999;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10724937;NA;1999;NA;NA;resented Outpatient Health Care Statistics Data Warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10566432;PMC2232506;1999;NA;NA;Clinical Data Repository (CDR) at the University of Virginia Health Sciences Center;NA;methods:cdw-follow-up;NA;"NA";"NA";NA
+NULL;10566489;PMC2232518;1999;NA;NA;COSTAR database at the Massachusetts General Hospital;NA;methods:cdw-follow-up;NA;"NA";"NA";NA
+NULL;10338713;NA;1998;11;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10345385;NA;1998;9;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10185041;NA;1998;9;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10181908;NA;1998;8;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10181225;NA;1998;7;NA;Kaiser Permanente data warehouse;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;10181260;NA;1998;7;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10180968;NA;1998;7;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;9604782;NA;1998;6;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10184890;NA;1998;4;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10176450;NA;1998;2;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;9929220;PMC2232104;1998;NA;NA;CATCH;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;9929270;PMC2232066;1998;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;9726181;NA;1998;NA;NA;PENN;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;9450407;NA;1997;10;NA;CATCH;NA;methods:cdw-deployment;NA;"NA";"NA";NA
+NULL;10175677;NA;1997;10;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10175200;NA;1997;10;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;9357597;PMC2233405;1997;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;9001850;NA;1996;12;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10162588;NA;1996;11;NA;Community Health Information Networks (CHINs) data warehouse;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10163171;NA;1996;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;8767375;NA;1996;NA;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10151631;NA;1995;10;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10151630;NA;1995;10;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+NULL;10140897;NA;1994;11;NA;NA;NA;methods:cdw-conception;NA;"NA";"NA";NA
+10.1111/1475-6773.12550;27546309;PMC5517685;2017;8;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.acra.2017.02.017;28356203;NA;2017;8;NA;NYU Langone Medical Center Enterprise Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1007/s10549-017-4280-y;28493045;NA;2017;8;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.2105/AJPH.2017.303904;28727519;NA;2017;7;20;Indian Health Service National Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.adaj.2017.06.009;28728965;NA;2017;7;17;national dental data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1007/s11606-017-4095-x;28685482;NA;2017;7;6;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.ajog.2017.02.043;28267444;NA;2017;7;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.9778/cmajo.20160040;28659352;PMC5498315;2017;6;28;Clean Air Strategic Alliance Data Warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.hjdsi.2017.06.001;28655521;NA;2017;6;24;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1002/pds.4234;28608510;NA;2017;6;12;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.amepre.2017.04.001;28619532;NA;2017;6;7;NA;NA;exclusion;Virtual CDW;NA;"NA";NA
+10.1093/ajcp/aqx033;28472350;NA;2017;6;1;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.2196/resprot.7562;28495660;PMC5445236;2017;5;11;Helsana Group data warehouse, SNIIRAM;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1007/s10729-017-9400-z;28488196;NA;2017;5;9;Administrative data warehouse of Regione Lombardia;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.acra.2017.03.010;28483308;NA;2017;5;5;NYU Langone Medical Center Enterprise Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1002/jbmr.3079;28229485;NA;2017;5;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/jamia/ocx038;28444384;NA;2017;4;21;no name;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1111/jdv.14280;28419674;NA;2017;4;17;Care Data Warehouse in Ostergötland;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.clinthera.2017.01.032;28284731;NA;2017;4;NA;Baltimore-area Medicaid data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.jacr.2016.10.025;28143752;NA;2017;4;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1053/j.gastro.2016.12.018;28043907;NA;2017;4;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1007/s40801-016-0102-5;28063028;PMC5332306;2017;3;NA;Claims Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.7205/MILMED-D-16-00183;28290947;NA;2017;3;NA;Department of Defense Pharmacy Data Transactions Service data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/jamia/ocw091;27402139;PMC5391723;2017;3;NA;none;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.ophtha.2016.10.036;27890437;NA;2017;3;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.amjmed.2016.10.018;27884649;NA;2017;3;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.arth.2016.09.004;27793498;NA;2017;3;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1186/s12913-017-2069-7;28209197;PMC5314632;2017;2;16;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1097/BRS.0000000000002118;28187074;NA;2017;2;9;DENALI;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.4140/TCP.n.2017.109;28569663;NA;2017;2;1;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1111/jcpt.12474;27882560;NA;2017;2;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1053/j.semperi.2016.09.013;27866661;NA;2017;2;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1093/database/bax034;28605771;PMC5467560;2017;1;1;CHOmine;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.14423/SMJ.0000000000000592;28052170;NA;2017;1;NA;no name;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1097/DCR.0000000000000721;27926558;NA;2017;1;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/pcp/pcw200;28013278;NA;2017;1;NA;ThaleMine;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1371/journal.pone.0174379;28350807;PMC5369776;2017;NA;NA;Cerner Health Facts;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1371/journal.pone.0176222;28437484;PMC5402933;2017;NA;NA;Electrocardiogram Vigilance with Electronic data Warehouse II (ECG-ViEW II);NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1111/1475-6773.12586;27766628;PMC5134214;2016;12;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.atherosclerosissup.2016.10.001;27939304;NA;2016;12;NA;familial hypercholesterolaemia Data Warehouse;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NA;27934670;NA;2016;12;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1097/CCM.0000000000001862;27509387;NA;2016;11;NA;MIMIC II;NA;exclusion;Other;NA;"NA";NA
+10.1016/j.envpol.2016.01.022;26794340;NA;2016;10;NA;Global Monitoring Plan (GMP) for Persistent Organic Pollutants (POPs) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1111/1475-6773.12461;26898782;PMC5034198;2016;10;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.jhsa.2016.07.090;27546441;NA;2016;10;NA;U.S. CCH manufacturer's data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/protein/gzw035;27503952;PMC5001139;2016;9;NA;Dynameomics molecular dynamics data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1111/acem.13005;27155236;NA;2016;9;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.21037/jtd.2016.08.44;27651940;PMC5009069;2016;8;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.4158/EP15807.OR;27042746;NA;2016;8;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.cgh.2016.03.038;27058635;PMC4955682;2016;8;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1186/s12913-016-1489-0;27391599;PMC4939041;2016;7;8;Administrative data warehouse of Regione Lombardia;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1001/jamainternmed.2016.2275;27273792;PMC5380118;2016;7;1;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.ejca.2016.03.082;27237360;NA;2016;7;NA;no name;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;27355910;NA;2016;6;1;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.jaad.2016.01.048;26946986;PMC4945117;2016;6;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1007/s00347-016-0273-1;27251331;NA;2016;6;NA;Freiburg keratoconus registry;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1213/ANE.0000000000001321;27195619;NA;2016;6;NA;no name;NA;exclusion;Other;NA;"NA";NA
+10.1016/j.dib.2016.04.044;27222852;PMC4865664;2016;6;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1111/apt.13580;26991059;PMC4917292;2016;5;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1186/s12888-016-0821-x;27112538;PMC4845377;2016;4;26;Chronic Condition Data Warehouse;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/s12864-016-2629-y;27118214;PMC4847265;2016;4;26;Integrated Microbial Genomes (IMG) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/s13104-016-2008-4;27067412;PMC4828898;2016;4;12;Care Data Warehouse register of Sweden;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/S0049-3848(16)30174-8;27161729;NA;2016;4;NA;no name;NA;exclusion;Fulltext not available;NA;"NA";NA
+10.18632/oncotarget.7322;26885610;PMC4924670;2016;3;22;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.2196/resprot.5155;26952700;PMC4802105;2016;3;7;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;26745338;PMC4758226;2016;3;NA;NA;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1177/0194599815620778;26671905;NA;2016;3;NA;Henry Ford Virtual Data Warehouse Tumor Registry;NA;exclusion;Virtual CDW;NA;"NA";NA
+10.1002/bjs.10117;26830251;NA;2016;3;NA;Hospital Episode Statistics data warehouse for England;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.5888/pcd13.150325;26851336;PMC4747436;2016;2;4;Centers for Disease Control and Prevention's (CDC's) National Quitline Data Warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;26862824;NA;2016;2;NA;an administrative data warehouse that contains admissions to all National Health Service hospitals in England;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1097/01.JHQ.0000479826.80326.2e;26730804;NA;2016;2;NA;New York State Medicaid Data Warehouse claims;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1007/978-1-4939-3609-0_15;27311473;NA;2016;NA;NA;diXa data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;28269945;PMC5333336;2016;NA;NA;Korean National Health Insurance Services (KNHIS);NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;27577428;NA;2016;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1155/2016/4121837;27493451;PMC4963559;2016;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/s13040-016-0096-2;27152122;PMC4857381;2016;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/database/baw009;26989145;PMC4795931;2016;NA;NA;TargetMine data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.3350/cmh.2015.21.4.379;26770927;PMC4712166;2015;12;NA;no name;NA;exclusion;Other;NA;"NA";NA
+10.1186/s12911-015-0215-x;26563260;PMC4643516;2015;11;12;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1186/s12859-015-0779-6;26537733;PMC4634576;2015;11;4;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/occmed/kqv074;26503980;NA;2015;11;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1016/j.ijmedinf.2015.08.007;26363001;NA;2015;11;NA;Health Insurance Review and Assessment (HIRA) Claims Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.tim.2015.07.012;26439299;NA;2015;11;NA;Integrated Microbial Genomes (IMG) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/jamia/ocv045;26198304;NA;2015;11;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1093/jnci/djv239;26296640;PMC4643633;2015;11;NA;Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.2196/resprot.5039;26503357;PMC4704915;2015;10;26;NA;NA;exclusion;Other;NA;"NA";NA
+10.1016/j.jdent.2015.07.016;26234624;NA;2015;10;NA;Claims data of a major German national health insurance company (BARMER GEK);NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.jbi.2015.06.023;26188274;PMC4714951;2015;10;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.3390/brainsci5040419;26437432;PMC4701021;2015;9;30;NA;NA;exclusion;CDW defined as data visualisation tool;NA;"NA";NA
+10.2215/CJN.12591214;26220816;PMC4527038;2015;8;7;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1007/s00335-015-9573-z;26092688;PMC4534495;2015;8;NA;MouseMine data warehouse (souris seulement);NA;exclusion;Improper CDW content;NA;"NA";NA
+10.3348/kjr.2015.16.4.783;26175577;PMC4499542;2015;8;NA;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1097/MLR.0000000000000404;26225443;PMC4732933;2015;7;29;Cancer Research Network Virtual Data Warehouse;NA;exclusion;Virtual CDW;NA;"NA";NA
+10.1007/s12098-015-1699-1;25712006;NA;2015;7;NA;NA;NA;exclusion;Other;NA;"NA";NA
+NULL;26405775;NA;2015;6;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1016/j.revmed.2014.11.009;25547954;NA;2015;6;NA;Système national d'information inter-régime de l'assurance maladie (SNIIR-AM);NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/bioinformatics/btu827;25505093;PMC4410652;2015;5;1;Data Infrastructure for Chemical Safety Assessment (diXa);NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1097/MLR.0000000000000335;25872151;PMC4397662;2015;5;NA;no name;NA;exclusion;Virtual CDW;NA;"NA";NA
+NULL;25910928;PMC4413863;2015;4;24;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.sste.2015.04.003;26046634;NA;2015;4;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1128/JCM.03464-14;25609721;PMC4365212;2015;4;NA;Optum Labs Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1097/01.JHQ.0000462683.70630.d7;26042763;NA;2015;3;6;New York State Medicaid Data Warehouse claims;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1038/eye.2014.308;25572584;PMC4366471;2015;3;NA;IMS Integrated Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.12788/jcso.0115;25880672;NA;2015;3;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/s12882-015-0016-6;25882434;PMC4355130;2015;2;26;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1176/appi.ps.201300518;25642610;PMC4315504;2015;2;1;HMO Research Network Virtual Data Warehouse;NA;exclusion;Virtual CDW;NA;"NA";NA
+10.1002/jcph.375;25098860;PMC4570827;2015;1;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;25646879;NA;2015;1;NA;Health Resources and Services Administration (HRSA) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/jac/dku328;25304646;NA;2015;1;NA;IMS Health Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.3310/hta19060;25619533;PMC4781234;2015;1;NA;UK Drug Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.4172/2167-0870.1000222;26719818;PMC4692459;2015;NA;NA;Assessment of Worldwide Acute Kidney Injury, Renal Angina and Epidemiology (AWARE) data warehouse;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/s40064-015-0981-z;25977897;PMC4422830;2015;NA;NA;Cerner Health Facts;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1177/0046958015571131;25724749;NA;2015;NA;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1371/journal.pone.0133279;26214805;PMC4516264;2015;NA;NA;German Institute for Drug Use Evaluation (DAPI) Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1504/IJBRA.2015.068091;25786795;NA;2015;NA;NA;Hepatitis Delta Virus (HDV) data base (HDVDB);NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;26306285;PMC4525235;2015;NA;NA;Medicare Chronic Conditions Data Warehouse (CCW);NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;26668922;NA;2015;NA;NA;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;26262359;NA;2015;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1007/978-1-4939-1985-7_7;25417082;NA;2015;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.3402/jmahp.v3.28076;27123180;PMC4802693;2015;NA;NA;plein de DB !!!;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/database/bav066;26130662;PMC4485433;2015;NA;NA;toxoMine;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.4338/ACI-2014-09-RA-0073;25848420;PMC4377567;2015;NA;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.2106/JBJS.N.00462;25520421;PMC4271425;2014;12;17;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.2106/JBJS.N.00556;25520420;PMC4271421;2014;12;17;NA;NA;exclusion;Other;NA;"NA";NA
+10.1186/s12913-014-0582-5;25467603;PMC4263202;2014;12;3;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1002/cam4.308;25060622;PMC4298380;2014;12;NA;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1002/pro.2537;25142412;PMC4241109;2014;11;NA;Dynameomics data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1310/hpj4909-839;25477615;PMC4252187;2014;10;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/1472-6963-14-410;25236590;PMC4180330;2014;9;19;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;25522627;NA;2014;9;NA;CDW sur le rat;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1002/art.38720;24891315;PMC4617772;2014;9;NA;IHS National Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1001/jamapediatrics.2014.339;25003562;PMC4529060;2014;9;NA;Perspective Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.ejca.2014.04.030;24928189;NA;2014;8;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1016/j.meatsci.2013.07.031;24035246;NA;2014;7;NA;BIF-Beef (Integrated and Functional Biology of Beef) data warehouse (animaux seulement);NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.jhin.2014.03.010;24856115;NA;2014;7;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;24942789;PMC4062705;2014;6;18;NA;NA;exclusion;Virtual CDW;NA;"NA";NA
+10.1007/s11606-014-2767-3;24567199;PMC4026491;2014;6;NA;NA;NA;exclusion;Virtual CDW;NA;"NA";NA
+NULL;24968632;NA;2014;6;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1038/bjc.2014.68;24569466;PMC3974085;2014;4;2;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1200/JCO.2013.52.3019;24516033;PMC3940541;2014;3;10;RECIST 1.1 data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.prevetmed.2014.01.017;24485708;NA;2014;3;1;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.jacr.2013.05.016;24075216;NA;2014;1;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/nar/gkt963;24165883;PMC3965111;2014;1;NA;Integrated Microbial Genomes (IMG) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/nar/gkt1158;24265222;PMC3965049;2014;1;NA;InterMine-based data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1200/JOP.2013.001210;24443735;NA;2014;1;NA;McKesson Specialty Health financial data warehouse, Aetna claims data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1371/journal.pone.0102079;25014031;PMC4090166;2014;NA;NA;Celsius;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.5600/mmrr2014-004-01-b03;25009762;PMC4086854;2014;NA;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.5600/mmrr.004.01.b01;24926414;PMC4053188;2014;NA;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1371/journal.pone.0113741;25470484;PMC4254751;2014;NA;NA;DENALI data warehouse;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.3389/fmicb.2014.00134;24778629;PMC3985023;2014;NA;NA;Microbial Genomes (INDIGO) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1155/2014/528917;25386605;PMC4214046;2014;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1155/2014/325959;24812613;PMC4000951;2014;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NA;24808811;PMC3995483;2014;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1371/journal.pone.0099030;24918583;PMC4053319;2014;NA;NA;TargetMine data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;24605549;NA;2013;12;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1002/pon.3319;23878040;NA;2013;11;NA;Princess Margaret Cancer Registry;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/fampra/cmt033;23825186;NA;2013;10;NA;"Stockholm County Council data warehouse VAL (Vårdanalysdatabasen; Stockholm regional health care data warehouse)";NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1177/2150131913495243;24327665;NA;2013;10;NA;University of Wisconsin Department of Family Medicine Clinical Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.cmpb.2013.03.010;23639751;NA;2013;7;NA;EBI's ArrayExpress repository;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1021/pr3011217;23682656;NA;2013;6;7;TargetMine data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1111/1475-6773.12016;23205568;PMC3681243;2013;6;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.3122/jabfm.2013.03.120234;23657695;PMC3883432;2013;6;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;23947264;NA;2013;5;20;none;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1517/14712598.2013.735654;23163831;NA;2013;3;NA;data warehouse of the Hungarian National Health Insurance Fund;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1542/peds.2012-1427j;23457154;NA;2013;3;NA;Perspective Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1136/amiajnl-2012-000948;22811492;PMC3555318;2013;1;1;NA;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1097/MLR.0b013e31824def85;22531648;PMC3406224;2013;1;NA;Cancer Research Network's Virtual Data Warehouse (VDW);NA;exclusion;Virtual CDW;NA;"NA";NA
+10.1093/nar/gks1175;23203883;PMC3531187;2013;1;NA;European Nucleotide Archive (ENA) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1002/minf.201200114;27481023;NA;2013;1;NA;ToxBank Data Warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.5600/mmrr.003.02.b01;24753966;PMC3983725;2013;NA;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1371/journal.pone.0082210;24324765;PMC3855842;2013;NA;NA;INDIGO;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1038/srep01802;23652793;PMC3647165;2013;NA;NA;InterMine data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/database/bat060;23935057;PMC4438919;2013;NA;NA;metabolicMine data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;25642505;NA;2013;NA;NA;NHS Electronic Staff Record Data Warehouse (England);NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;23967549;NA;2013;NA;NA;none;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.6026/97320630009555;23888095;PMC3717182;2013;NA;NA;none;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;23920920;NA;2013;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;24303294;PMC3814498;2013;NA;NA;SysBioCube data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1471-2229-12-245;23272737;PMC3577462;2012;12;29;OPTIMAS Data Warehouse (OPTIMAS-DW);NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1471-2091-13-29;23259756;PMC3544649;2012;12;22;BIF-Beef data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/bioinformatics/bts577;23023984;PMC3516146;2012;12;1;InterMine;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;23293273;NA;2012;12;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1177/2150131911434804;23238419;PMC3519391;2012;10;1;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1007/s11227-011-0692-3;23204646;PMC3507464;2012;10;1;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1038/clpt.2012.93;22828716;NA;2012;9;NA;Electrocardiogram Vigilance with Electronic Data Warehouse (ECG-ViEW);NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.ejca.2012.03.008;22483323;NA;2012;9;NA;eusomaDB data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;23285920;NA;2012;9;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;23285917;NA;2012;9;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1016/j.meatsci.2012.02.026;22436659;NA;2012;8;NA;BIF-Beef;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1021/pr300121a;22646850;NA;2012;7;6;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1472-6947-12-45;22640398;PMC3508953;2012;5;28;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1681/ASN.2011070740;22402802;PMC3338293;2012;5;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1186/1471-2105-13-S4-S21;22536968;PMC3314565;2012;3;28;BEAT: Bioinformatics Exon Array Tool;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;22571032;NA;2012;3;15;NA;NA;exclusion;Fulltext not available;NA;"NA";NA
+10.4300/JGME-D-11-00312.1;23451320;PMC3312519;2012;3;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.amjopharm.2011.11.003;22264854;PMC3296564;2012;2;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;22574573;NA;2012;2;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/bioinformatics/btr631;22180409;PMC3259435;2012;1;15;data warehouse BioMyn;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1007/s12094-012-0764-8;22262722;NA;2012;1;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1093/geronb/gbr131;22156627;NA;2012;1;NA;Health Resources and Services Administration Geospatial Data Warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/nar/gkr1101;22121219;PMC3245170;2012;1;NA;MitoMiner data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1007/s10661-011-1975-0;21409360;NA;2012;1;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/nar/gkr912;22067455;PMC3245174;2012;1;NA;SuperTarget data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.5600/mmrr.002.03.a05;24800145;PMC4006378;2012;NA;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;23451615;NA;2012;NA;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1258/jms.2012.012085;22972813;NA;2012;NA;NA;EUNICE Breast Cancer Screening Monitoring (EBCSM) data warehouse;NA;exclusion;Other;NA;"NA";NA
+10.1371/journal.pone.0046401;23056299;PMC3463605;2012;NA;NA;GenoSets;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;23163106;NA;2012;NA;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.3389/fpls.2012.00123;22701464;PMC3371593;2012;NA;NA;pep2pro;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/database/bar062;22434830;PMC3308152;2012;NA;NA;YeastMine;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1007/s10552-011-9844-2;21984306;NA;2011;12;NA;IHS National Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;22166352;NA;2011;12;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.3109/03009734.2011.606927;22066972;PMC3207299;2011;11;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1111/j.1475-6773.2011.01277.x;21649659;PMC3207195;2011;10;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;22164580;NA;2011;10;NA;Marshfield Clinic Research Foundation's Bioinformatics Research Center Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1177/0194599811419458;21860057;NA;2011;10;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;21851136;NA;2011;8;1;no name;NA;exclusion;Fulltext not available;NA;"NA";NA
+10.1016/j.drudis.2011.05.001;21601652;NA;2011;8;NA;GSK data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.cali.2011.03.008;21621440;NA;2011;8;NA;NA;NA;exclusion;CDW defined as data visualisation tool;NA;"NA";NA
+10.1016/j.ijmm.2011.04.014;21555243;NA;2011;6;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1177/193229681100500306;21722567;PMC3192618;2011;5;1;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;21626877;NA;2011;4;NA;Akita-ReNICS;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.ygyno.2010.11.028;21208650;NA;2011;4;NA;Arizona HealthQuery (AZHQ) data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.cali.2010.11.009;21256066;NA;2011;4;NA;NA;NA;exclusion;CDW defined as data visualisation tool;NA;"NA";NA
+10.1186/1471-2164-12-165;21450055;PMC3072960;2011;3;30;Rice-Map;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1371/journal.pone.0017844;21408081;PMC3050930;2011;3;8;TargetMine data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.jamcollsurg.2010.11.008;21247778;NA;2011;3;NA;American Medical Colleges FACTS Data Warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.4258/hir.2011.17.1.58;21818458;PMC3092995;2011;3;NA;no name;NA;exclusion;Other;NA;"NA";NA
+10.1111/j.1744-618X.2010.01164.x;21255259;NA;2011;3;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/1297-9716-42-31;21324113;PMC3055824;2011;2;15;National Scrapie Plan data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1751-0147-53-S1-S3;21999393;PMC3194122;2011;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.3111/13696998.2010.551165;21241162;NA;2011;NA;NA;PHARMO data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;21220839;NA;2010;12;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;21314222;NA;2010;12;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;21346987;PMC3041360;2010;11;13;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.2390/biecoll-jib-2010-148;21068463;NA;2010;11;11;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.str.2010.07.013;21070939;NA;2010;11;10;MoDEL (Molecular Dynamics Extended Library);NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1007/s00125-010-1836-3;20596693;NA;2010;10;NA;Care Data Warehouse in Ostergötland;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.4258/hir.2010.16.3.191;21818439;PMC3089858;2010;9;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/1472-6963-10-245;20727154;PMC2936901;2010;8;20;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;23634480;NA;2010;7;NA;Clinical Breast Care Project (CBCP) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.2390/biecoll-jib-2010-142;20585146;NA;2010;6;28;CardioVINEdb  data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.4258/hir.2010.16.2.77;21818427;PMC3089860;2010;6;NA;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;21469517;NA;2010;6;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.jbiotec.2010.04.005;20416347;NA;2010;6;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1080/15390940903450982;20054735;NA;2010;6;NA;Wisconsin's Medicaid Evaluation and Decision Support (MEDS) data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;20464800;NA;2010;5;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1002/pds.1929;20309840;NA;2010;5;NA;Universal Data Warehouse ??;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1586/erp.10.6;20384566;NA;2010;4;NA;Hauptverband der Osterreichischen Sozialversicherungsträger Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1111/j.1537-2995.2009.02529.x;20003051;PMC3079513;2010;4;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1136/jamia.2009.002451;20190062;PMC3000787;2010;4;NA;Pediatric Health Information Systems (PHIS) data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.2390/biecoll-jib-2010-119;20375464;NA;2010;3;25;genomic and proteomic data warehouse (GPDW);NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;20222529;NA;2010;2;NA;electronic data warehouse of the Atlanta-based region;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1185/03007990903432470;19919375;NA;2010;1;NA;NA;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/nar/gkp871;19884133;PMC2808935;2010;1;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;20841656;NA;2010;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.3414/ME09-02-0025;20411210;NA;2010;NA;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1515/CCLM.2010.003;19919329;NA;2010;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.3109/09638280903186327;20205578;NA;2010;NA;NA;Washington State Department of Labor and Industries data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.jadohealth.2009.04.003;19931828;NA;2009;12;NA;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.fct.2009.01.040;19709586;NA;2009;12;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1007/s10278-008-9128-x;18543033;PMC3043736;2009;12;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;20011689;NA;2009;11;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1148/rg.297095701;19734469;NA;2009;11;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1186/1471-2105-10-S10-S2;19796399;PMC2755823;2009;10;1;Corvus data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1586/erp.09.43;19817531;NA;2009;10;NA;Hauptverband der Osterreichischen Sozialversicherungsträger Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1371/journal.pone.0007162;19779614;PMC2745575;2009;9;25;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;20025203;PMC2762774;2009;9;22;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1477-7525-7-82;19737412;PMC2748070;2009;9;8;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;19813432;NA;2009;9;NA;Association of American Medical College's data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.jbiotec.2008.11.006;19103235;PMC2656595;2009;3;10;IGetDB data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1055/s-0028-1109193;19294586;NA;2009;3;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/1471-2180-9-40;19228437;PMC2656513;2009;2;20;MyBASE data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1471-2229-9-19;19210766;PMC2654896;2009;2;11;TRUNCATULIX data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1111/j.1567-1364.2008.00461.x;19133071;NA;2009;2;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;19385331;NA;2009;2;NA;the Regional data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.ejca.2008.10.026;19097774;NA;2009;1;NA;RECIST;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.ejca.2008.10.027;19095437;NA;2009;1;NA;RECIST;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/nar/gkn848;19036792;PMC2686442;2009;1;NA;SysPIMP data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.3414/ME9235;19696950;NA;2009;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;18999194;PMC2656099;2008;11;6;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;18999017;NA;2008;11;6;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1097/MLR.0b013e31817d69d3;18953231;NA;2008;11;NA;Chronic Condition Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NA;19133342;NA;2008;10;2;VA Southern California Network data warehouse;NA;exclusion;Fulltext not available;NA;"NA";NA
+10.1148/radiol.2483071453;18796668;NA;2008;10;NA;Health Benchmarks Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;18814498;NA;2008;10;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;19119657;NA;2008;9;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1371/journal.pone.0002300;18523684;PMC2409186;2008;6;4;e-Fungi object-oriented data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/protein/gzn012;18411223;NA;2008;6;NA;Dynameomics;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/protein/gzn015;18411222;NA;2008;6;NA;Dynameomics;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;18556999;NA;2008;6;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1111/j.1365-2753.2007.00867.x;18373584;NA;2008;6;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/nar/gkm758;17947331;PMC2238957;2008;1;NA;CFGP data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/nar/gkm862;17942422;PMC2238858;2008;1;NA;SuperTarget and Matador;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;18487789;NA;2008;NA;NA;Birth Certificates;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;18776587;PMC3827801;2008;NA;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1021/ci700267w;17973472;NA;2007;12;NA;ABCD data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1101/gr.6531807;17984228;PMC2099590;2007;12;NA;e-Fungi data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1752-0509-1-55;18034885;PMC2212648;2007;11;22;CoryneRegNet, an ontology-based data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1471-2105-8-429;17986320;PMC2194740;2007;11;6;CoryneRegNet 4.0;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1556/OH.2007.28157;17959550;NA;2007;11;4;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1186/1471-2105-8-401;17945017;PMC2151082;2007;10;18;Protein Identifier Cross-Referencing (PICR);NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;18084348;NA;2007;10;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.2146/ajhp060596;17724369;NA;2007;9;1;University of Michigan enterprise data warehouse;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1159/0000104490;17848813;NA;2007;9;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;17727235;NA;2007;8;NA;Beverly Healthcare Data Warehouse;NA;exclusion;Fulltext not available;NA;"NA";NA
+10.1093/nar/gkm344;17584795;PMC1933140;2007;7;NA;BIPASS;NA;exclusion;CDW defined as data visualisation tool;NA;"NA";NA
+10.1016/j.yrtph.2007.03.002;17490794;PMC2040324;2007;7;NA;IRIS data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.jbiotec.2006.12.012;17229482;NA;2007;4;30;CoryneRegNet;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;17369164;NA;2007;3;NA;data warehouse of China Genetic Counseling Network (CGCN);NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;17283919;NA;2007;2;NA;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1038/sj.jid.5700543;16946712;NA;2007;2;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/nar/gkl995;17132828;PMC1716725;2007;1;NA;ArrayExpress;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/gb-2007-8-7-r129;17615057;PMC2323218;2007;NA;NA;FlyMine;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1136/ip.2006.012427;17170165;PMC2563474;2006;12;NA;no name;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1186/1471-2105-7-495;17094801;PMC1647292;2006;11;9;data warehouse DWARF;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.ijmedinf.2005.10.008;16359916;NA;2006;11;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;16886622;NA;2006;8;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;16871724;NA;2006;7;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;18254459;NA;2006;6;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1021/ci050354f;16711713;NA;2006;6;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1093/bioinformatics/btl036;16455749;NA;2006;4;15;Linnaeus Centre for Bioinformatics Data Warehouse (LCB-DWH);NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1471-2164-7-24;16478536;PMC1382212;2006;2;14;CoryneRegNet;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1186/1471-2105-7-55;16464251;PMC1409799;2006;2;7;PathSys data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/j.pmr.2005.11.005;16517353;NA;2006;2;NA;NA;NA;exclusion;CDW defined as data visualisation tool;NA;"NA";NA
+10.1093/nar/gkj110;16381976;PMC1347472;2006;1;1;Tomato Microarray Data Warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/S0076-6879(06)11020-4;16939801;NA;2006;NA;NA;ArrayExpress;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;17108537;NA;2006;NA;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;17102282;NA;2006;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/1471-2105-6-S4-S9;16351758;PMC1866376;2005;12;1;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.2146/ajhp040583;16278329;NA;2005;11;15;Caremark's data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1104/pp.105.063156;16219923;PMC1255982;2005;10;NA;ArrayExpress;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1007/s10877-005-0676-z;16328945;NA;2005;10;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;16294667;NA;2005;10;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1002/pmic.200402107;16041676;NA;2005;8;NA;none;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;16416935;NA;2005;7;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;16472232;NA;2005;6;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;15931802;NA;2005;4;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;15746595;NA;2005;3;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1186/1471-2105-6-34;15723693;PMC554782;2005;2;21;Atlas data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1097/01.AOG.0000151105.53557.27;15684161;NA;2005;2;NA;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/nar/gki056;15608260;PMC540010;2005;1;1;ArrayExpress;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;17288080;PMC4194908;2005;NA;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;16160388;NA;2005;NA;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;15924186;NA;2005;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NA;15595230;NA;2004;12;1;Veterans Affairs;NA;exclusion;Fulltext not available;NA;"NA";NA
+10.1089/cpb.2004.7.683;15687803;NA;2004;12;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1016/j.acra.2004.07.025;15561570;NA;2004;11;NA;Health System Data Warehouse (USA);NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1093/bioinformatics/bth214;15059838;NA;2004;9;1;Ligand Depot;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1177/106286060401900406;15368782;NA;2004;8;NA;CHCN data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1016/j.ejcts.2003.12.009;15019654;NA;2004;3;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+10.1093/nar/gkh118;14681490;PMC314203;2004;1;1;ORFDB data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1093/nar/gkh003;14681485;PMC308738;2004;1;1;Public Expression Profiling Resource (PEPR) GeneChip data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1385/NI:2:1:101;15067170;NA;2004;NA;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;15553568;NA;2004;NA;NA;Wisconsin Medicaid data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+10.1001/jama.290.9.1190;12953002;NA;2003;9;3;Association of American Medical Colleges (AAMC) data warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;12865749;NA;2003;8;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1016/S1072-7515(03)00338-7;12831919;NA;2003;7;NA;University of Michigan Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;15706530;NA;2003;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;12430514;NA;2002;10;NA;NA;NA;exclusion;Fulltext not available;NA;"NA";NA
+NULL;12080220;NA;2002;7;NA;Henry Ford Health System corporate data warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;12092931;NA;2002;6;NA;NA;NA;exclusion;Fulltext not available;NA;"NA";NA
+NULL;12034853;NA;2002;5;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;11934741;NA;2002;3;NA;Microarray;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;12035765;NA;2002;NA;NA;Mayo Cost Data Warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+10.1300/J115v21n04_03;12659454;NA;2002;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;11710171;NA;2001;11;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;11500287;NA;2001;8;NA;Association of American Medical Colleges' Data Warehouse;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;11442243;NA;2001;7;NA;University of Michigan Data Warehouse;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;11351809;NA;2001;5;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;11294791;NA;2001;3;NA;MetaFam;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;11244557;NA;2001;3;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;11833476;PMC2243290;2001;NA;NA;no name;NA;exclusion;Exclusively medico-administrative database;NA;"NA";NA
+NULL;11875854;NA;2001;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;11825212;PMC2243448;2001;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;11604914;NA;2001;NA;NA;NA;NA;exclusion;Other;NA;"NA";NA
+NULL;11604823;NA;2001;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;11604738;NA;2001;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+10.1200/JCO.2000.18.8.1764;10764438;NA;2e3;4;NA;NA;NA;exclusion;Database dedicated to the study;NA;"NA";NA
+NULL;10404661;NA;1999;5;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;10193881;NA;1999;3;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;9520496;NA;1998;NA;NA;Merck Gene Index;NA;exclusion;Improper CDW content;NA;"NA";NA
+NULL;10345836;NA;1998;NA;NA;NA;NA;exclusion;Fulltext not available;NA;"NA";NA
+NULL;9929250;PMC2232189;1998;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;9697227;NA;1998;NA;NA;NA;NA;exclusion;CDW cited but not exploited;NA;"NA";NA
+NULL;10168912;NA;1997;NA;NA;NA;NA;exclusion;Improper CDW content;NA;"NA";NA
